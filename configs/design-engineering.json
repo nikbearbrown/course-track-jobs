@@ -1,0 +1,595 @@
+{
+ "course": "Digital Experience Engineering (INFO 7375)",
+ "confirmed_by": null,
+ "note": "AI-made proposal: the track of each title is not confirmed by the course designers.",
+ "tracks": {
+  "1": {
+   "name": "Track 1 – Creative",
+   "who": "Designers, product and project managers, and others with little or no coding experience. The job is deciding what the experience should be and directing the tools that build it."
+  },
+  "2": {
+   "name": "Track 2 – Creative Engineer",
+   "who": "People comfortable with both design and code. The job is designing the experience and building it."
+  },
+  "3": {
+   "name": "Track 3 – Engineer",
+   "who": "Strong programmers who add design and creative skill. The job is building the system, with design judgment as the differentiator."
+  }
+ },
+ "core_track": [
+  "2"
+ ],
+ "hardware_words": "\\b(mechanical|electrical|electronic|fpga|physical|rtl|asic|silicon|hardware|thermal|harness|cpu|gpu|ic|soc|emc|structural|civil|transport|tooling|substrate|logical|digital design|analog|mixed[- ]signal|verification|layout|dfm|dfa|configuration|module|package|packaging|vlsi|cad|process|optical|rf|rfic|mmic|baw|firmware|embedded|battery|bms|propulsion|avionics|wire|cable|fluid|manufacturing|test|pcb|pcba|power|memory|interconnect|network(ing)?|chip|circuit|sheet metal|plastic|composites?|machine|drafting|piping|hvac|bridge|highway|mep|building|aerostructures|gear|cathode|quantum|nuclear|hot cell|core|rack|white space|due diligence|product design engineer|scientist|model-based|gnc)\\b|data cent(er|re)|\\bhardware\\b",
+ "hardware_companies": [
+  "Rocket Lab",
+  "SpaceX",
+  "Intuitive Surgical",
+  "Anduril",
+  "Apptronik",
+  "Skydio",
+  "Etched",
+  "Saronic",
+  "Shield AI",
+  "Western Digital",
+  "Lucid Motors",
+  "Epirus",
+  "Oklo",
+  "Figure AI",
+  "d-Matrix",
+  "Ubiquiti",
+  "Colliers",
+  "CoreWeave",
+  "MatX",
+  "Redwood Materials",
+  "Samsara",
+  "Physical Intelligence"
+ ],
+ "early_words": "\\b(intern|internship|junior|jr\\.?|associate|new grad|graduate|entry[- ]level|apprentice|early career|university|trainee)\\b",
+ "early_not": "associate (creative |art |design |managing |program |medical |executive )?director|senior associate|associate (partner|principal|general counsel|vice president)|graduate (school|program manager|medical)",
+ "rows": [
+  {
+   "title": "Design Engineer",
+   "pattern": "\\bdesign[- ]engineer(ing)?\\b",
+   "hw": true,
+   "track": "2",
+   "also": null,
+   "why": "Design-led front end: turns Figma intent into working interfaces"
+  },
+  {
+   "title": "UX Engineer",
+   "pattern": "\\bux[- ]engineer|user experience engineer",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Builds and tests interaction behavior; bridges design and engineering"
+  },
+  {
+   "title": "UI Engineer / UI Developer",
+   "pattern": "\\bui (engineer|developer)\\b|\\bui software engineer",
+   "hw": false,
+   "track": "2",
+   "also": "3",
+   "why": "Implements interface components from a design system"
+  },
+  {
+   "title": "Creative Technologist",
+   "pattern": "creative technologist",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Prototypes new experiences with code and AI; portfolio-driven"
+  },
+  {
+   "title": "Design Technologist",
+   "pattern": "design technologist",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Sits between design and engineering; prototypes and system work"
+  },
+  {
+   "title": "Creative Developer / Creative Engineer",
+   "pattern": "creative (developer|coder|engineer)|creative technology",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Interactive and motion-heavy web experiences"
+  },
+  {
+   "title": "Front-End Engineer / Developer",
+   "pattern": "front[- ]?end (software )?(engineer|developer)|\\bfrontend\\b",
+   "hw": false,
+   "track": "3",
+   "also": "2",
+   "why": "Largest market for design-to-code skill; not all roles are design-led"
+  },
+  {
+   "title": "Web Developer / Web Engineer",
+   "pattern": "\\bweb (developer|engineer)\\b",
+   "hw": false,
+   "track": "3",
+   "also": "2",
+   "why": "Sites and portfolio-type experiences"
+  },
+  {
+   "title": "Product Engineer",
+   "pattern": "\\bproduct engineer\\b",
+   "hw": true,
+   "track": "3",
+   "also": "2",
+   "why": "Ships product features end to end; some titles are hardware"
+  },
+  {
+   "title": "Prototyper / Prototyping Engineer",
+   "pattern": "prototyper|prototyp(e|ing) (engineer|developer)",
+   "hw": true,
+   "track": "2",
+   "also": null,
+   "why": "Fast working prototypes to test a design decision"
+  },
+  {
+   "title": "Interaction Engineer / Developer",
+   "pattern": "interaction (engineer|developer)",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Implements motion and interaction design"
+  },
+  {
+   "title": "Digital Experience Engineer / Developer",
+   "pattern": "(?<!end user )(?<!developer )(?<!demo )experience (engineer|developer)\\b|digital experience (specialist|engineer|developer)",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Course title in the wild; often CMS or enterprise web roles"
+  },
+  {
+   "title": "Growth Engineer / Marketing Technologist",
+   "pattern": "marketing (technologist|engineer)|growth engineer|martech|gtm engineer|go[- ]to[- ]market engineer",
+   "hw": false,
+   "track": "3",
+   "also": "2",
+   "why": "Builds and tests marketing and onboarding experiences"
+  },
+  {
+   "title": "Webflow / CMS Developer",
+   "pattern": "webflow|wordpress|cms (developer|engineer)|drupal",
+   "hw": false,
+   "track": "2",
+   "also": "1",
+   "why": "Site builds for clients and small organizations"
+  },
+  {
+   "title": "UI Programmer (games)",
+   "pattern": "ui programmer|ui engineer.*game",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Game interface implementation; links to the CSYE 7270 course"
+  },
+  {
+   "title": "Design Systems Engineer",
+   "pattern": "(?=.*design[- ]systems?)(?=.*(engineer|developer))",
+   "hw": false,
+   "track": "2",
+   "also": "3",
+   "why": "Owns components, tokens and their code packages"
+  },
+  {
+   "title": "Design Systems Designer",
+   "pattern": "(?=.*design[- ]systems?)(?=.*designer)",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Owns the Figma library, variables and documentation"
+  },
+  {
+   "title": "Design Operations (DesignOps)",
+   "pattern": "design ?ops|design operations",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Process, tooling and governance for design teams"
+  },
+  {
+   "title": "Front-End / UI Platform Engineer",
+   "pattern": "(front[- ]?end|ui) platform",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Shared UI infrastructure and component platforms"
+  },
+  {
+   "title": "Design Tooling / Design Infrastructure",
+   "pattern": "design (tool|tooling|infrastructure)",
+   "hw": false,
+   "track": "3",
+   "also": "2",
+   "why": "Tools that connect design files to code and agents"
+  },
+  {
+   "title": "AI Product Designer",
+   "pattern": "(?=.*designer)(?=.*\\b(ai|genai|generative|llm|agent|agents|machine learning)\\b)",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Designs human and agent roles, uncertainty and recovery states"
+  },
+  {
+   "title": "Conversation Designer",
+   "pattern": "conversation(al)? design",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Voice, flows and handoff for assistants"
+  },
+  {
+   "title": "AI Engineer / Applied AI Engineer",
+   "pattern": "\\b(applied )?ai engineer\\b|\\bai software engineer",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Builds LLM applications; strongest overlap with the Conducting AI half"
+  },
+  {
+   "title": "AI Agent Engineer / Developer",
+   "pattern": "agent(ic)? (engineer|developer)|\\bai agents?\\b",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Bounded agent workflows, permissions, failure paths"
+  },
+  {
+   "title": "LLM / Generative AI Application Developer",
+   "pattern": "(llm|generative ai|genai|gen ai) (application |applications |app )?(engineer|developer)|llm engineer",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Application layer around models"
+  },
+  {
+   "title": "Forward Deployed Engineer",
+   "pattern": "forward[- ]deployed",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Embedded customer delivery with agents; common in AI companies"
+  },
+  {
+   "title": "Solutions Engineer / Solutions Architect",
+   "pattern": "solutions? (engineer|architect)",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Fits a product to a customer's workflow; many are sales-side"
+  },
+  {
+   "title": "AI Product Manager",
+   "pattern": "(?=.*product manager)(?=.*\\b(ai|ml|genai|llm|agent|agents)\\b)",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Frames the problem and the human-agent boundary"
+  },
+  {
+   "title": "AI Evaluation / Evals",
+   "pattern": "\\bevals?\\b|evaluation (engineer|specialist)|ai quality",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Designs checks that separate observation from inference"
+  },
+  {
+   "title": "Prompt Engineer",
+   "pattern": "prompt engineer",
+   "hw": false,
+   "track": "2",
+   "also": "1",
+   "why": "Specifies and tests model behavior; a thin and shifting title"
+  },
+  {
+   "title": "Automation / Workflow Engineer",
+   "pattern": "(automation|workflow|integration) engineer",
+   "hw": true,
+   "track": "3",
+   "also": null,
+   "why": "Connects tools and services; some titles are test or hardware"
+  },
+  {
+   "title": "Responsible AI Specialist",
+   "pattern": "responsible ai|ai governance",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Policy-facing trust, privacy and review work"
+  },
+  {
+   "title": "Product Designer",
+   "pattern": "\\bproduct designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Core design role; implementation skill is a differentiator"
+  },
+  {
+   "title": "UX Designer",
+   "pattern": "\\bux designer|ux/ui designer|ui/ux designer|user experience designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Journeys, IA and usability"
+  },
+  {
+   "title": "UI Designer",
+   "pattern": "\\bui designer|ui/ux designer|ux/ui designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Visual and component design"
+  },
+  {
+   "title": "Interaction Designer",
+   "pattern": "interaction designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "States, transitions and handoffs"
+  },
+  {
+   "title": "Experience Designer",
+   "pattern": "(experience|cx|customer experience) designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Cross-channel experience design"
+  },
+  {
+   "title": "Service Designer",
+   "pattern": "service designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "People, systems and services in one journey"
+  },
+  {
+   "title": "Visual / Brand / Graphic Designer",
+   "pattern": "visual designer|brand designer|graphic designer|communication designer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Identity and voice; personal-brand projects map here"
+  },
+  {
+   "title": "Content Designer / UX Writer",
+   "pattern": "content designer|ux writer|content strategist",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Words in the interface, including errors and \"I don't know\""
+  },
+  {
+   "title": "Information Architect",
+   "pattern": "information architect",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Structure and navigation"
+  },
+  {
+   "title": "Design Strategist",
+   "pattern": "design strategist",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Reframes problems and sets direction"
+  },
+  {
+   "title": "UX / User Researcher",
+   "pattern": "\\b(ux|user|design|usability)\\s+research(er)?\\b",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Observation versus inference; the usability half of the course"
+  },
+  {
+   "title": "Usability / Experience QA",
+   "pattern": "usability|design qa|ux qa|experience qa",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Acceptance checks against design intent"
+  },
+  {
+   "title": "Accessibility Engineer / Specialist",
+   "pattern": "accessibility (engineer|specialist|analyst|tester|consultant|lead|program|manager)|\\ba11y\\b|section 508|wcag",
+   "hw": false,
+   "track": "2",
+   "also": "1",
+   "why": "WCAG and Section 508 checks; also the federal 508 search"
+  },
+  {
+   "title": "Human Factors Engineer",
+   "pattern": "human factors",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Many are hardware or defense; check the listing"
+  },
+  {
+   "title": "HCI / Human-AI Interaction Researcher",
+   "pattern": "\\bhci\\b|human[- ]computer|human[- ]ai",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Research-lab roles; usually need a graduate degree"
+  },
+  {
+   "title": "Learning Experience Designer",
+   "pattern": "learning (experience )?designer|learning experience",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Designed experiences for learners; the course's educational project domain"
+  },
+  {
+   "title": "Instructional Designer",
+   "pattern": "instructional design",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Courses and training; weaker on the engineering half"
+  },
+  {
+   "title": "Educational Technologist",
+   "pattern": "educational technolog|\\bed[- ]?tech\\b|learning technolog",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Builds and supports learning tools"
+  },
+  {
+   "title": "Civic Technologist / Digital Service Designer",
+   "pattern": "civic tech|digital service|public[- ]interest tech|digital government",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Public-interest services; the course's service project domain"
+  },
+  {
+   "title": "Developer Advocate / Developer Relations",
+   "pattern": "developer (advocate|advocacy|relations|educator|education|community)|\\bdev ?rel\\b",
+   "hw": false,
+   "track": "3",
+   "also": "2",
+   "why": "Teaches and demonstrates tools in public"
+  },
+  {
+   "title": "Technical Writer / Documentation Engineer",
+   "pattern": "technical writer|documentation (engineer|specialist)",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Explains systems; partial fit"
+  },
+  {
+   "title": "Digital / Experience / Technology Consultant",
+   "pattern": "(digital|experience|innovation|technology|transformation) consultant",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Consulting-channel overlap; often needs a degree plus domain"
+  },
+  {
+   "title": "Customer Engineer / Implementation Engineer",
+   "pattern": "customer engineer|implementation (engineer|consultant|specialist)",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Delivers a product into a customer's setting"
+  },
+  {
+   "title": "Motion / Interactive Designer or Developer",
+   "pattern": "motion designer|interactive (designer|developer|producer)",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Motion and interactive builds"
+  },
+  {
+   "title": "Game UI / UX Designer or Artist",
+   "pattern": "ui (artist|designer)\\b.*game|game ui|game ux|ui/ux artist",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Game interfaces; links to the CSYE 7270 course"
+  },
+  {
+   "title": "XR / Spatial Experience Designer or Developer",
+   "pattern": "\\b(xr|vr|ar/vr|spatial|immersive)\\b.*(designer|developer|engineer|experience)",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Immersive experiences"
+  },
+  {
+   "title": "Technical Artist",
+   "pattern": "technical artist",
+   "hw": false,
+   "track": "2",
+   "also": null,
+   "why": "Tools and pipelines between art and engineering"
+  },
+  {
+   "title": "Digital / Creative Producer",
+   "pattern": "digital producer|creative producer",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Coordinates creative and technical delivery"
+  },
+  {
+   "title": "Full-Stack Engineer",
+   "pattern": "full[- ]?stack",
+   "hw": false,
+   "track": "3",
+   "also": null,
+   "why": "Broad software role; design skill is a differentiator, not the job"
+  },
+  {
+   "title": "Product Manager",
+   "pattern": "\\bproduct manager\\b",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Frames problems and sets evidence; not an implementation role"
+  },
+  {
+   "title": "Project / Program Manager",
+   "pattern": "\\b(project|program) manager\\b",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Plans and coordinates delivery; a general title, many are outside software and design"
+  },
+  {
+   "title": "Design Manager / Design Lead",
+   "pattern": "\\bdesign (manager|lead|director)\\b|head of design|manager,? (product )?design\\b",
+   "hw": true,
+   "track": "1",
+   "also": null,
+   "why": "Leads a design team; rarely a first job"
+  },
+  {
+   "title": "Creative Director / Art Director",
+   "pattern": "\\b(creative|art) director\\b",
+   "hw": false,
+   "track": "1",
+   "also": null,
+   "why": "Sets visual and brand direction"
+  },
+  {
+   "title": "Designer Advocate / Design Advocate",
+   "pattern": "\\bdesign(er)? advocate",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Teaches and demonstrates a design tool to designers in public"
+  },
+  {
+   "title": "No-Code / Low-Code Builder",
+   "pattern": "\\b(no|low)[- ]code\\b",
+   "hw": false,
+   "track": "1",
+   "also": "2",
+   "why": "Builds working tools without writing most of the code"
+  },
+  {
+   "title": "Evangelist (AI, developer, product)",
+   "pattern": "evangelis",
+   "hw": false,
+   "track": "2",
+   "also": "3",
+   "why": "Explains and demonstrates a product in public; the word is rare, most of this work is posted as Developer Advocate"
+  }
+ ]
+}

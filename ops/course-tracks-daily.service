@@ -1,0 +1,29 @@
+[Unit]
+Description=course-track-jobs: search the day's job postings for each course's tracks and publish the lists
+After=network-online.target ai-jobs-daily.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=jobs
+Group=jobs
+WorkingDirectory=/home/jobs/course-tracks/repo
+Environment=HOME=/home/jobs
+ExecStart=/home/jobs/course-tracks/repo/ops/run-daily.sh
+TimeoutStartSec=20min
+# Share the box politely (2 cores, 3.8 GB)
+Nice=10
+IOSchedulingClass=idle
+CPUQuota=100%
+MemoryMax=800M
+# Sandbox: reads the postings file, writes only its own folder, uses the network only for git
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ReadOnlyPaths=/home/jobs/ai-jobs
+ReadWritePaths=/home/jobs/course-tracks
+ProtectKernelTunables=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+RestrictNamespaces=yes
+LockPersonality=yes

@@ -1,0 +1,9 @@
+[Unit]
+Description=course-track-jobs daily search (after the ai-jobs collection at 04:30 UTC)
+
+[Timer]
+OnCalendar=*-*-* 05:05:00 UTC
+Persistent=true
+
+[Install]
+WantedBy=timers.target
