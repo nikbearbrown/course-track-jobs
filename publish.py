@@ -11,8 +11,9 @@ For every configs/<course>.json that has results in OUT/<course>/ it writes, und
     reports/DATE.md     the same report, kept per day
     counts.json         the counts behind the report
     summary/DATE.json   the day's totals per track and per job title (small; kept per day)
+    site.json           what a website shows: track totals, and the postings that are new, early-career or in a core track
 
-and rewrites the lines between the headline markers in README.md. It reads no network and changes nothing in OUT.
+plus courses/index.json (one line per course), and rewrites the lines between the headline markers in README.md. It reads no network and changes nothing in OUT.
 Stdlib only."""
 import argparse, csv, glob, io, json, os, re, sys
 
@@ -92,6 +93,30 @@ def summary(cfg, counts):
                 titles=[dict(title=r["title"], track=r["track"], open=r["postings"], companies=r["companies"], early_career=r["early"]) for r in counts["rows"]])
 
 
+SITE_VERSION = 1
+
+
+def site(slug, cfg, counts, matches):
+    """The file a website reads. Small on purpose: every posting that is new since the last run, has an
+    early-career title, or is in a core track; not the whole list (that is jobs.csv)."""
+    tracks = cfg["tracks"]; core = [t for t in tracks if t in (cfg.get("core_track") or [])]; tn = counts.get("track_new") or {}
+    why = {r["title"]: r.get("why", "") for r in cfg["rows"]}
+    keep = [m for m in matches if m.get("new") or m["early_career_title"] or any(t in core for t in m["tracks"])]
+    keep.sort(key=lambda m: (m["company"].lower(), m["title"].lower(), m["id"]))
+    return dict(version=SITE_VERSION, slug=slug, course=cfg["course"], note=cfg.get("note") or "", confirmed_by=cfg.get("confirmed_by"),
+                snapshot=counts["snapshot"], previous_snapshot=counts.get("previous_snapshot"), first_run=bool(counts.get("first_run")),
+                searched=counts["open_postings"], matched=counts.get("matched"), new=counts.get("new"), closed=counts.get("closed"),
+                core_tracks=core,
+                tracks=[dict(id=t, name=v["name"], who=v.get("who", ""), open=counts["track_totals"].get(t, 0), early_career=counts["track_early"].get(t, 0),
+                             new=tn.get(t), titles=[dict(title=r["title"], open=r["postings"], companies=r["companies"], early_career=r["early"],
+                                                         top_companies=r["top_companies"][:4], why=why.get(r["title"], ""))
+                                                    for r in sorted((r for r in counts["rows"] if r["track"] == t), key=lambda r: (-r["postings"], r["title"]))])
+                        for t, v in tracks.items()],
+                postings=[dict(id=m["id"], company=m["company"], title=m["title"], locations=m["locations"], us=m["us"],
+                               early_career=m["early_career_title"], new=bool(m.get("new")), tracks=m["tracks"], title_groups=m["rows"],
+                               first_seen=m.get("first_seen"), url=m.get("url")) for m in keep])
+
+
 def headline(slug, cfg, counts):
     tracks = cfg["tracks"]; tn = counts.get("track_new") or {}
     L = [f"### {cfg['course']}", "",
@@ -107,7 +132,7 @@ def headline(slug, cfg, counts):
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--out", required=True); ap.add_argument("--repo", required=True)
     a = ap.parse_args()
-    heads = []
+    heads = []; index = []
     for p in sorted(glob.glob(os.path.join(a.repo, "configs", "*.json"))):
         slug = os.path.splitext(os.path.basename(p))[0]; cfg = json.load(open(p, encoding="utf-8"))
         cpath = os.path.join(a.out, slug, "latest-counts.json")
@@ -127,8 +152,12 @@ def main():
         write(os.path.join(d, "reports", f"{date}.md"), report)
         write(os.path.join(d, "counts.json"), json.dumps(counts, ensure_ascii=False, indent=1) + "\n")
         write(os.path.join(d, "summary", f"{date}.json"), json.dumps(summary(cfg, counts), ensure_ascii=False, indent=1) + "\n")
+        write(os.path.join(d, "site.json"), json.dumps(site(slug, cfg, counts, matches), ensure_ascii=False, separators=(",", ":")) + "\n")
+        index.append(dict(slug=slug, course=cfg["course"], snapshot=date, site=f"courses/{slug}/site.json"))
         heads += headline(slug, cfg, counts)
         print(f"{slug}: published {date}, {len(matches)} postings, {sum(1 for m in matches if m.get('new'))} new")
+    if index:
+        write(os.path.join(a.repo, "courses", "index.json"), json.dumps(dict(version=SITE_VERSION, courses=index), ensure_ascii=False, indent=1) + "\n")
     readme = os.path.join(a.repo, "README.md")
     if heads and os.path.exists(readme):
         s = open(readme, encoding="utf-8").read()

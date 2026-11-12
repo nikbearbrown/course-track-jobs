@@ -39,6 +39,10 @@ Everything for a course is in `courses/<course>/`.
 | `counts.json` | The numbers behind the report |
 | `reports/DATE.md` | The full report for each past day |
 | `summary/DATE.json` | Each day's totals per track and per job title |
+| `site.json` | What a website reads: track totals, counts per job title, and every posting that is new, has an early-career title, or is in the core track |
+
+`courses/index.json` lists the courses and where each one's `site.json` is. A website can read these files
+straight from GitHub (`https://raw.githubusercontent.com/nikbearbrown/course-track-jobs/main/courses/index.json`).
 
 ## Columns in jobs.csv
 
