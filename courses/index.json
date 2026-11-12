@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "courses": [
+  {
+   "slug": "design-engineering",
+   "course": "Digital Experience Engineering (INFO 7375)",
+   "snapshot": "2026-11-11",
+   "site": "courses/design-engineering/site.json"
+  }
+ ]
+}
