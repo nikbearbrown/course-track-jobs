@@ -1,0 +1,507 @@
+{
+ "course": "Digital Experience Engineering (INFO 7375)",
+ "snapshot": "2026-11-14",
+ "previous_snapshot": "2026-11-13",
+ "open_postings_searched": 84291,
+ "matched": 6494,
+ "new": 111,
+ "closed": 203,
+ "tracks": {
+  "1": {
+   "name": "Track 1 – Creative",
+   "open": 3265,
+   "early_career": 69,
+   "new": 54
+  },
+  "2": {
+   "name": "Track 2 – Creative Engineer",
+   "open": 67,
+   "early_career": 3,
+   "new": 1
+  },
+  "3": {
+   "name": "Track 3 – Engineer",
+   "open": 3197,
+   "early_career": 73,
+   "new": 56
+  }
+ },
+ "titles": [
+  {
+   "title": "Design Engineer",
+   "track": "2",
+   "open": 21,
+   "companies": 12,
+   "early_career": 0
+  },
+  {
+   "title": "UX Engineer",
+   "track": "2",
+   "open": 5,
+   "companies": 5,
+   "early_career": 1
+  },
+  {
+   "title": "UI Engineer / UI Developer",
+   "track": "2",
+   "open": 7,
+   "companies": 6,
+   "early_career": 2
+  },
+  {
+   "title": "Creative Technologist",
+   "track": "2",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Design Technologist",
+   "track": "2",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Creative Developer / Creative Engineer",
+   "track": "2",
+   "open": 3,
+   "companies": 3,
+   "early_career": 0
+  },
+  {
+   "title": "Front-End Engineer / Developer",
+   "track": "3",
+   "open": 157,
+   "companies": 72,
+   "early_career": 6
+  },
+  {
+   "title": "Web Developer / Web Engineer",
+   "track": "3",
+   "open": 24,
+   "companies": 16,
+   "early_career": 4
+  },
+  {
+   "title": "Product Engineer",
+   "track": "3",
+   "open": 115,
+   "companies": 39,
+   "early_career": 0
+  },
+  {
+   "title": "Prototyper / Prototyping Engineer",
+   "track": "2",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Interaction Engineer / Developer",
+   "track": "2",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Digital Experience Engineer / Developer",
+   "track": "2",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Growth Engineer / Marketing Technologist",
+   "track": "3",
+   "open": 63,
+   "companies": 41,
+   "early_career": 1
+  },
+  {
+   "title": "Webflow / CMS Developer",
+   "track": "2",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "UI Programmer (games)",
+   "track": "3",
+   "open": 4,
+   "companies": 2,
+   "early_career": 1
+  },
+  {
+   "title": "Design Systems Engineer",
+   "track": "2",
+   "open": 10,
+   "companies": 9,
+   "early_career": 0
+  },
+  {
+   "title": "Design Systems Designer",
+   "track": "1",
+   "open": 11,
+   "companies": 9,
+   "early_career": 0
+  },
+  {
+   "title": "Design Operations (DesignOps)",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Front-End / UI Platform Engineer",
+   "track": "3",
+   "open": 14,
+   "companies": 9,
+   "early_career": 0
+  },
+  {
+   "title": "Design Tooling / Design Infrastructure",
+   "track": "3",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "AI Product Designer",
+   "track": "1",
+   "open": 21,
+   "companies": 17,
+   "early_career": 0
+  },
+  {
+   "title": "Conversation Designer",
+   "track": "1",
+   "open": 4,
+   "companies": 3,
+   "early_career": 0
+  },
+  {
+   "title": "AI Engineer / Applied AI Engineer",
+   "track": "3",
+   "open": 240,
+   "companies": 92,
+   "early_career": 1
+  },
+  {
+   "title": "AI Agent Engineer / Developer",
+   "track": "3",
+   "open": 59,
+   "companies": 24,
+   "early_career": 1
+  },
+  {
+   "title": "LLM / Generative AI Application Developer",
+   "track": "3",
+   "open": 4,
+   "companies": 3,
+   "early_career": 0
+  },
+  {
+   "title": "Forward Deployed Engineer",
+   "track": "3",
+   "open": 495,
+   "companies": 104,
+   "early_career": 41
+  },
+  {
+   "title": "Solutions Engineer / Solutions Architect",
+   "track": "3",
+   "open": 1148,
+   "companies": 194,
+   "early_career": 7
+  },
+  {
+   "title": "AI Product Manager",
+   "track": "1",
+   "open": 190,
+   "companies": 90,
+   "early_career": 1
+  },
+  {
+   "title": "AI Evaluation / Evals",
+   "track": "3",
+   "open": 56,
+   "companies": 23,
+   "early_career": 2
+  },
+  {
+   "title": "Prompt Engineer",
+   "track": "2",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Automation / Workflow Engineer",
+   "track": "3",
+   "open": 94,
+   "companies": 51,
+   "early_career": 1
+  },
+  {
+   "title": "Responsible AI Specialist",
+   "track": "1",
+   "open": 16,
+   "companies": 10,
+   "early_career": 0
+  },
+  {
+   "title": "Product Designer",
+   "track": "1",
+   "open": 291,
+   "companies": 128,
+   "early_career": 15
+  },
+  {
+   "title": "UX Designer",
+   "track": "1",
+   "open": 49,
+   "companies": 25,
+   "early_career": 0
+  },
+  {
+   "title": "UI Designer",
+   "track": "1",
+   "open": 16,
+   "companies": 8,
+   "early_career": 0
+  },
+  {
+   "title": "Interaction Designer",
+   "track": "1",
+   "open": 3,
+   "companies": 2,
+   "early_career": 0
+  },
+  {
+   "title": "Experience Designer",
+   "track": "1",
+   "open": 22,
+   "companies": 13,
+   "early_career": 0
+  },
+  {
+   "title": "Service Designer",
+   "track": "1",
+   "open": 2,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Visual / Brand / Graphic Designer",
+   "track": "1",
+   "open": 77,
+   "companies": 54,
+   "early_career": 0
+  },
+  {
+   "title": "Content Designer / UX Writer",
+   "track": "1",
+   "open": 25,
+   "companies": 21,
+   "early_career": 0
+  },
+  {
+   "title": "Information Architect",
+   "track": "1",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Design Strategist",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "UX / User Researcher",
+   "track": "1",
+   "open": 24,
+   "companies": 18,
+   "early_career": 1
+  },
+  {
+   "title": "Usability / Experience QA",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Accessibility Engineer / Specialist",
+   "track": "2",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Human Factors Engineer",
+   "track": "1",
+   "open": 2,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "HCI / Human-AI Interaction Researcher",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Learning Experience Designer",
+   "track": "1",
+   "open": 20,
+   "companies": 13,
+   "early_career": 0
+  },
+  {
+   "title": "Instructional Designer",
+   "track": "1",
+   "open": 17,
+   "companies": 12,
+   "early_career": 6
+  },
+  {
+   "title": "Educational Technologist",
+   "track": "1",
+   "open": 4,
+   "companies": 3,
+   "early_career": 0
+  },
+  {
+   "title": "Civic Technologist / Digital Service Designer",
+   "track": "1",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Developer Advocate / Developer Relations",
+   "track": "3",
+   "open": 73,
+   "companies": 42,
+   "early_career": 0
+  },
+  {
+   "title": "Technical Writer / Documentation Engineer",
+   "track": "1",
+   "open": 59,
+   "companies": 23,
+   "early_career": 3
+  },
+  {
+   "title": "Digital / Experience / Technology Consultant",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "Customer Engineer / Implementation Engineer",
+   "track": "3",
+   "open": 175,
+   "companies": 40,
+   "early_career": 2
+  },
+  {
+   "title": "Motion / Interactive Designer or Developer",
+   "track": "1",
+   "open": 12,
+   "companies": 9,
+   "early_career": 0
+  },
+  {
+   "title": "Game UI / UX Designer or Artist",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "XR / Spatial Experience Designer or Developer",
+   "track": "2",
+   "open": 3,
+   "companies": 3,
+   "early_career": 0
+  },
+  {
+   "title": "Technical Artist",
+   "track": "2",
+   "open": 12,
+   "companies": 6,
+   "early_career": 0
+  },
+  {
+   "title": "Digital / Creative Producer",
+   "track": "1",
+   "open": 6,
+   "companies": 6,
+   "early_career": 0
+  },
+  {
+   "title": "Full-Stack Engineer",
+   "track": "3",
+   "open": 559,
+   "companies": 158,
+   "early_career": 7
+  },
+  {
+   "title": "Product Manager",
+   "track": "1",
+   "open": 1415,
+   "companies": 325,
+   "early_career": 29
+  },
+  {
+   "title": "Project / Program Manager",
+   "track": "1",
+   "open": 1107,
+   "companies": 223,
+   "early_career": 15
+  },
+  {
+   "title": "Design Manager / Design Lead",
+   "track": "1",
+   "open": 70,
+   "companies": 46,
+   "early_career": 0
+  },
+  {
+   "title": "Creative Director / Art Director",
+   "track": "1",
+   "open": 54,
+   "companies": 31,
+   "early_career": 0
+  },
+  {
+   "title": "Designer Advocate / Design Advocate",
+   "track": "1",
+   "open": 1,
+   "companies": 1,
+   "early_career": 0
+  },
+  {
+   "title": "No-Code / Low-Code Builder",
+   "track": "1",
+   "open": 0,
+   "companies": 0,
+   "early_career": 0
+  },
+  {
+   "title": "Evangelist (AI, developer, product)",
+   "track": "2",
+   "open": 4,
+   "companies": 3,
+   "early_career": 0
+  }
+ ]
+}
