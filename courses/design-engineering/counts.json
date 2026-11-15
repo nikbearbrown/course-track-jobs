@@ -1,11 +1,11 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-14",
- "postings_in_file": 132261,
- "open_postings": 84291,
+ "snapshot": "2026-11-15",
+ "postings_in_file": 133125,
+ "open_postings": 84274,
  "track_totals": {
-  "1": 3265,
-  "3": 3197,
+  "1": 3264,
+  "3": 3199,
   "2": 67
  },
  "track_early": {
@@ -834,7 +834,7 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1148,
+   "postings": 1149,
    "companies": 194,
    "early": 7,
    "top_companies": [
@@ -1879,14 +1879,14 @@
   {
    "title": "Customer Engineer / Implementation Engineer",
    "track": "3",
-   "postings": 175,
+   "postings": 174,
    "companies": 40,
    "early": 2,
    "top_companies": [
     "Cloudflare",
     "Veeva",
-    "Adyen",
     "Brex",
+    "Adyen",
     "Samsara"
    ],
    "early_examples": [
@@ -2043,7 +2043,7 @@
   {
    "title": "Full-Stack Engineer",
    "track": "3",
-   "postings": 559,
+   "postings": 561,
    "companies": 158,
    "early": 7,
    "top_companies": [
@@ -2119,8 +2119,8 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1107,
-   "companies": 223,
+   "postings": 1106,
+   "companies": 222,
    "early": 15,
    "top_companies": [
     "Anduril",
@@ -2376,14 +2376,14 @@
    ]
   }
  ],
- "matched": 6494,
+ "matched": 6495,
  "first_run": false,
- "previous_snapshot": "2026-11-13",
- "new": 111,
- "closed": 203,
+ "previous_snapshot": "2026-11-14",
+ "new": 5,
+ "closed": 4,
  "track_new": {
-  "1": 54,
-  "2": 1,
-  "3": 56
+  "1": 0,
+  "2": 0,
+  "3": 5
  }
 }
