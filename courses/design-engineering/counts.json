@@ -1,11 +1,11 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-15",
- "postings_in_file": 133125,
- "open_postings": 84274,
+ "snapshot": "2026-11-16",
+ "postings_in_file": 134075,
+ "open_postings": 84303,
  "track_totals": {
-  "1": 3264,
-  "3": 3199,
+  "1": 3257,
+  "3": 3195,
   "2": 67
  },
  "track_early": {
@@ -14,7 +14,7 @@
   "2": 3
  },
  "track_also": {
-  "2": 456,
+  "2": 455,
   "3": 18,
   "1": 1
  },
@@ -320,8 +320,8 @@
   {
    "title": "Growth Engineer / Marketing Technologist",
    "track": "3",
-   "postings": 63,
-   "companies": 41,
+   "postings": 62,
+   "companies": 40,
    "early": 1,
    "top_companies": [
     "Grafana Labs",
@@ -349,7 +349,6 @@
     "Cresta: Marketing Engineer (AI Agents)",
     "Delivery Hero: Lead, CRM MarTech",
     "Delivery Hero: Senior Data Engineer – MarTech",
-    "Dust: Growth Engineer",
     "ElevenLabs: Website Growth Engineer",
     "Experian: Analista de Digital Analytics III - Martech",
     "Experian: Gerente de Martech",
@@ -651,8 +650,8 @@
   {
    "title": "AI Engineer / Applied AI Engineer",
    "track": "3",
-   "postings": 240,
-   "companies": 92,
+   "postings": 236,
+   "companies": 91,
    "early": 1,
    "top_companies": [
     "OpenAI",
@@ -675,8 +674,8 @@
   {
    "title": "AI Agent Engineer / Developer",
    "track": "3",
-   "postings": 59,
-   "companies": 24,
+   "postings": 58,
+   "companies": 23,
    "early": 1,
    "top_companies": [
     "Cresta",
@@ -722,7 +721,6 @@
     "Observe.AI: AI Agent Engineer",
     "Observe.AI: AI Agent Engineer, Client Facing",
     "Observe.AI: AI Agent Experience Designer",
-    "Okta: Senior Product Manager, Okta for AI Agents",
     "Otter.ai: Senior Software Engineer, AI Agent & LLM",
     "Otter.ai: Software Engineer, AI Agent & LLM",
     "Payoneer: Principal Product Manager - AI Agent Platform",
@@ -862,7 +860,7 @@
   {
    "title": "AI Product Manager",
    "track": "1",
-   "postings": 190,
+   "postings": 189,
    "companies": 90,
    "early": 1,
    "top_companies": [
@@ -979,8 +977,8 @@
   {
    "title": "Automation / Workflow Engineer",
    "track": "3",
-   "postings": 94,
-   "companies": 51,
+   "postings": 95,
+   "companies": 52,
    "early": 1,
    "top_companies": [
     "Stripe",
@@ -1879,14 +1877,14 @@
   {
    "title": "Customer Engineer / Implementation Engineer",
    "track": "3",
-   "postings": 174,
+   "postings": 175,
    "companies": 40,
    "early": 2,
    "top_companies": [
     "Cloudflare",
     "Veeva",
-    "Brex",
     "Adyen",
+    "Brex",
     "Samsara"
    ],
    "early_examples": [
@@ -2066,14 +2064,14 @@
    "examples": [
     "Senior Software Engineer, Full Stack",
     "Full Stack Engineer",
-    "Senior Software Engineer - Fullstack",
-    "Senior Full Stack Engineer"
+    "Senior Software Engineer, Fullstack",
+    "Senior Software Engineer - Fullstack"
    ]
   },
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1415,
+   "postings": 1410,
    "companies": 325,
    "early": 29,
    "top_companies": [
@@ -2119,7 +2117,7 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1106,
+   "postings": 1104,
    "companies": 222,
    "early": 15,
    "top_companies": [
@@ -2376,14 +2374,14 @@
    ]
   }
  ],
- "matched": 6495,
+ "matched": 6485,
  "first_run": false,
- "previous_snapshot": "2026-11-14",
- "new": 5,
- "closed": 4,
+ "previous_snapshot": "2026-11-15",
+ "new": 8,
+ "closed": 19,
  "track_new": {
-  "1": 0,
+  "1": 1,
   "2": 0,
-  "3": 5
+  "3": 7
  }
 }

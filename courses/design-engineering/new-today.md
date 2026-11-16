@@ -1,4 +1,4 @@
-# Digital Experience Engineering (INFO 7375): new postings, 2026-11-15
+# Digital Experience Engineering (INFO 7375): new postings, 2026-11-16
 
 ## Executive summary
 
@@ -6,7 +6,7 @@
 
 **Why read it.** These are the two groups worth checking every day. The full list of every open posting is in [jobs.csv](jobs.csv) and the full report is in [report.md](report.md).
 
-**What it found.** Nothing new today in these two groups. 5 postings are new since 2026-11-14 across all tracks, none of them in a core track or with an early-career title.
+**What it found.** Nothing new today in these two groups. 8 postings are new since 2026-11-15 across all tracks, none of them in a core track or with an early-career title.
 
 The track of each job title is a proposal made by an AI. The course designers have not confirmed it.
 

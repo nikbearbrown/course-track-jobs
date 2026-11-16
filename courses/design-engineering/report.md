@@ -1,38 +1,42 @@
-# Digital Experience Engineering (INFO 7375): job search by track, 2026-11-15
+# Digital Experience Engineering (INFO 7375): job search by track, 2026-11-16
 
 ## Executive summary
 
-**What this is.** The day's search of 84,274 open job postings for the 68 job titles mapped to this course's tracks. A server runs it each morning on postings it has already collected from company job boards.
+**What this is.** The day's search of 84,303 open job postings for the 68 job titles mapped to this course's tracks. A server runs it each morning on postings it has already collected from company job boards.
 
 **Why read it.** To see what is open now for each track, what appeared since the last run, and which postings are open to people at the start of a career.
 
 **What it found.**
 
-- **Track 1 – Creative:** 3,264 open postings, 69 with an early-career word in the title; 0 new since 2026-11-14.
-- **Track 2 – Creative Engineer:** 67 open postings, 3 with an early-career word in the title; 0 new since 2026-11-14.
-- **Track 3 – Engineer:** 3,199 open postings, 73 with an early-career word in the title; 5 new since 2026-11-14.
-- **Closed since 2026-11-14:** 4 postings that matched last time are no longer open.
+- **Track 1 – Creative:** 3,257 open postings, 69 with an early-career word in the title; 1 new since 2026-11-15.
+- **Track 2 – Creative Engineer:** 67 open postings, 3 with an early-career word in the title; 0 new since 2026-11-15.
+- **Track 3 – Engineer:** 3,195 open postings, 73 with an early-career word in the title; 7 new since 2026-11-15.
+- **Closed since 2026-11-15:** 19 postings that matched last time are no longer open.
 - **The track of each title is a proposal made by an AI.** The course designers have not confirmed it.
 
-## New since 2026-11-14
+## New since 2026-11-15
 
-### Track 1 – Creative (0 new)
+### Track 1 – Creative (1 new)
 
-None.
+| Company | Job title | Location | Early-career | In the US | Link |
+|---|---|---|---|---|---|
+| Benchling | Global Program Manager | San Francisco, CA; Boston, MA |  | yes | [posting](https://jobs.ashbyhq.com/benchling/73e23228-5162-4444-ba96-05aaeefd902f) |
 
 ### Track 2 – Creative Engineer (0 new)
 
 None.
 
-### Track 3 – Engineer (5 new)
+### Track 3 – Engineer (7 new)
 
 | Company | Job title | Location | Early-career | In the US | Link |
 |---|---|---|---|---|---|
-| Factory | RVP, Solutions Engineering, Enterprise | San Francisco, CA |  | yes | [posting](https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c) |
-| Perplexity | Member of Technical Staff (AI Software Engineer, Agent Engine) | San Francisco |  | yes | [posting](https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b) |
-| SpaceX | Full Stack Software Engineer (Starlink) | Palo Alto, CA |  | yes | [posting](https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002) |
-| SpaceX | Sr. Full Stack Software Engineer (Starlink) | Palo Alto, CA |  | yes | [posting](https://boards.greenhouse.io/spacex/jobs/8943684002?gh_jid=8943684002) |
-| Zuora | Customer Solution Engineer, Zuora + Workday Financial Management (FINS) | Remote - United States |  | yes | [posting](https://boards.greenhouse.io/zuora/jobs/8387830?gh_jid=8387830) |
+| Grab | Senior Software Engineer, Fullstack | HCMC, , Vietnam |  |  | [posting](https://jobs.smartrecruiters.com/grab/744000161722604) |
+| JFrog | Director of Solution Engineering, EMEA | tel aviv |  |  | [posting](https://join.jfrog.com/job/?job=8364137&gh_jid=8364137) |
+| OpenAI | Full Stack Software Engineer, Travel | San Francisco |  | yes | [posting](https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1) |
+| Payoneer | Senior Fullstack Engineer (AI Fluent) | Herzliya, Tel Aviv District, Israel |  |  | [posting](https://www.payoneer.com/careers/position/8344470/?gh_jid=8344470) |
+| Snowflake | Team Lead, Activation Solution Engineer | JP-Tokyo |  |  | [posting](https://jobs.ashbyhq.com/snowflake/7b43d330-5158-49be-bf09-aaa1d984238e) |
+| Wiz | Senior Solutions Engineer - South India | Bengaluru, India |  |  | [posting](https://www.wiz.io/careers/job/4728256006/:title?gh_jid=4728256006) |
+| Zscaler | Staff Integration Engineer (Security Platform and Data Pipelines) | Bangalore, IND |  |  | [posting](https://job-boards.greenhouse.io/zscaler/jobs/5267231007) |
 
 ## Every open posting in Track 2 – Creative Engineer (67)
 
@@ -274,10 +278,10 @@ None.
 
 | Job title | Open postings | Companies | Early-career titles | Who posts it |
 |---|---:|---:|---:|---|
-| Product Manager | 1,415 | 325 | 29 | Veeva, Stripe, ServiceNow, Databricks |
-| Project / Program Manager | 1,106 | 222 | 15 | Anduril, OpenAI, Stripe, Waymo |
+| Product Manager | 1,410 | 325 | 29 | Veeva, Stripe, ServiceNow, Databricks |
+| Project / Program Manager | 1,104 | 222 | 15 | Anduril, OpenAI, Stripe, Waymo |
 | Product Designer | 291 | 128 | 15 | Palantir, Stripe, Anduril, Harvey |
-| AI Product Manager | 190 | 90 | 1 | ServiceNow, Sierra, Wrike, Veeva |
+| AI Product Manager | 189 | 90 | 1 | ServiceNow, Sierra, Wrike, Veeva |
 | Visual / Brand / Graphic Designer | 77 | 54 | 0 | Brex, DoorDash, Roblox, Stripe |
 | Design Manager / Design Lead | 70 | 46 | 0 | Datadog, Nubank, Airbnb, Anthropic |
 | Technical Writer / Documentation Engineer | 59 | 23 | 3 | Anduril, Saronic, Palantir, ClickHouse |
@@ -338,14 +342,14 @@ None.
 | Solutions Engineer / Solutions Architect | 1,149 | 194 | 7 | Databricks, Esri, Snowflake, Stripe |
 | Full-Stack Engineer | 561 | 158 | 7 | SpaceX, Affirm, OpenAI, Grafana Labs |
 | Forward Deployed Engineer | 495 | 104 | 41 | Databricks, Palantir, OpenAI, Anduril |
-| AI Engineer / Applied AI Engineer | 240 | 92 | 1 | OpenAI, Anthropic, DataCamp, Elastic |
-| Customer Engineer / Implementation Engineer | 174 | 40 | 2 | Cloudflare, Veeva, Brex, Adyen |
+| AI Engineer / Applied AI Engineer | 236 | 91 | 1 | OpenAI, Anthropic, DataCamp, Elastic |
+| Customer Engineer / Implementation Engineer | 175 | 40 | 2 | Cloudflare, Veeva, Adyen, Brex |
 | Front-End Engineer / Developer | 157 | 72 | 6 | Grafana Labs, Roblox, Reddit, ClickHouse |
 | Product Engineer | 115 | 39 | 0 | Esri, HelloFresh, Docebo, Drata |
-| Automation / Workflow Engineer | 94 | 51 | 1 | Stripe, Wayve, Five9, AbbVie |
+| Automation / Workflow Engineer | 95 | 52 | 1 | Stripe, Wayve, Five9, AbbVie |
 | Developer Advocate / Developer Relations | 73 | 42 | 0 | Elastic, Databricks, Supabase, Datadog |
-| Growth Engineer / Marketing Technologist | 63 | 41 | 1 | Grafana Labs, ClickHouse, Cresta, Navan |
-| AI Agent Engineer / Developer | 59 | 24 | 1 | Cresta, Veeva, ServiceNow, Observe.AI |
+| Growth Engineer / Marketing Technologist | 62 | 40 | 1 | Grafana Labs, ClickHouse, Cresta, Navan |
+| AI Agent Engineer / Developer | 58 | 23 | 1 | Cresta, Veeva, ServiceNow, Observe.AI |
 | AI Evaluation / Evals | 56 | 23 | 2 | LangChain, ServiceNow, Anduril, Waymo |
 | Web Developer / Web Engineer | 24 | 16 | 4 | Esri, Robinhood, Harvey, Canonical |
 | Front-End / UI Platform Engineer | 14 | 9 | 0 | Okta, Stripe, Harvey, LangChain |
