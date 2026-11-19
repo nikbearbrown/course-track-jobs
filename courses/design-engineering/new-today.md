@@ -1,4 +1,4 @@
-# Digital Experience Engineering (INFO 7375): new postings, 2026-11-18
+# Digital Experience Engineering (INFO 7375): new postings, 2026-11-19
 
 ## Executive summary
 
@@ -6,18 +6,20 @@
 
 **Why read it.** These are the two groups worth checking every day. The full list of every open posting is in [jobs.csv](jobs.csv) and the full report is in [report.md](report.md).
 
-**What it found.** Since 2026-11-17: 1 new in Track 2 – Creative Engineer; 1 new with an early-career title (0 in the US). Across all tracks 127 postings are new.
+**What it found.** Since 2026-11-18: 2 new in Track 2 – Creative Engineer; 2 new with an early-career title (2 in the US). Across all tracks 125 postings are new.
 
 The track of each job title is a proposal made by an AI. The course designers have not confirmed it.
 
-## New in Track 2 – Creative Engineer (1)
+## New in Track 2 – Creative Engineer (2)
 
 | Company | Job title | Location | In the US | Link |
 |---|---|---|---|---|
-| Twilio | Developer Evangelist | Remote - US | yes | [posting](https://job-boards.greenhouse.io/twilio/jobs/8396809) |
+| Kabam | Senior Technical Artist (Contract) | Montreal |  | [posting](https://jobs.lever.co/kabam/d076a934-080d-4cee-b59b-f0a2c81fe69d) |
+| ServiceNow | Sr Staff Systems Design Engineer | San Diego, California, United States | yes | [posting](https://jobs.smartrecruiters.com/servicenow/744000162409639) |
 
-## New early-career postings, all tracks (1)
+## New early-career postings, all tracks (2)
 
 | Company | Job title | Location | Track | In the US | Link |
 |---|---|---|---|---|---|
-| Ogilvy | Digital Project Manager (Graduate Program) | Barcelona, Spain | Track 1 – Creative |  | [posting](https://www.ogilvy.com/careers/4754970005?gh_jid=4754970005) |
+| Adyen | Full-Stack Developer (Junior) - Docs Experience Engineering Team | Chicago | Track 3 – Engineer | yes | [posting](https://job-boards.greenhouse.io/adyen/jobs/8068230) |
+| Intuitive Surgical | Learning Experience Research Intern | Sunnyvale, CA, United States | Track 1 – Creative | yes | [posting](https://jobs.smartrecruiters.com/intuitive/744000162406479) |
