@@ -1,20 +1,20 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-21",
- "postings_in_file": 149493,
- "open_postings": 84651,
+ "snapshot": "2026-11-22",
+ "postings_in_file": 153850,
+ "open_postings": 84660,
  "track_totals": {
-  "1": 3248,
-  "3": 3177,
+  "1": 3243,
+  "3": 3184,
   "2": 68
  },
  "track_early": {
-  "3": 73,
+  "3": 72,
   "1": 66,
   "2": 4
  },
  "track_also": {
-  "2": 450,
+  "2": 453,
   "3": 18,
   "1": 2
  },
@@ -179,8 +179,8 @@
   {
    "title": "Front-End Engineer / Developer",
    "track": "3",
-   "postings": 145,
-   "companies": 70,
+   "postings": 148,
+   "companies": 71,
    "early": 5,
    "top_companies": [
     "Roblox",
@@ -639,8 +639,8 @@
   {
    "title": "AI Engineer / Applied AI Engineer",
    "track": "3",
-   "postings": 230,
-   "companies": 97,
+   "postings": 235,
+   "companies": 98,
    "early": 1,
    "top_companies": [
     "OpenAI",
@@ -772,9 +772,9 @@
   {
    "title": "Forward Deployed Engineer",
    "track": "3",
-   "postings": 527,
+   "postings": 525,
    "companies": 103,
-   "early": 41,
+   "early": 40,
    "top_companies": [
     "Databricks",
     "Palantir",
@@ -809,7 +809,6 @@
     "Palantir: Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "Saronic: Forward Deployed Engineer Intern (Summer 2027)",
     "Schonfeld: 2027 AI Forward Deployed Engineer Intern",
-    "ServiceNow: Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
     "ServiceNow: Forward Deployed Solution Engineer Intern (Masters Summer 2027)"
    ],
    "all_matches": null,
@@ -823,9 +822,9 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1134,
+   "postings": 1135,
    "companies": 196,
-   "early": 10,
+   "early": 9,
    "top_companies": [
     "Databricks",
     "Esri",
@@ -838,7 +837,6 @@
     "Graphcore: Graduate Infrastructure Solutions Engineer 2027",
     "Okta: Associate Solutions Engineer, Auth0",
     "Pinterest: Solutions Engineer Intern 2027 (USA)",
-    "ServiceNow: Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
     "ServiceNow: Forward Deployed Solution Engineer Intern (Masters Summer 2027)",
     "Snowflake: Associate Solution Engineer",
     "Trace3: Solutions Architect Intern"
@@ -878,8 +876,8 @@
   {
    "title": "AI Evaluation / Evals",
    "track": "3",
-   "postings": 58,
-   "companies": 23,
+   "postings": 57,
+   "companies": 22,
    "early": 3,
    "top_companies": [
     "LangChain",
@@ -938,7 +936,6 @@
     "Perplexity: Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)",
     "Reflection AI: Member of Technical Staff - Pre-Training Evals Infra",
     "Reflection AI: Member of Technical Staff - Pre-Training Evals Infra (Inference)",
-    "Rubrik: Senior AI Evals Engineer",
     "ServiceNow: Senior Machine Learning Engineer, Agent Eval Platform",
     "ServiceNow: Senior Software Engineer, Agent Eval Platform",
     "ServiceNow: Software Engineer, Agent Eval Platform",
@@ -1882,32 +1879,26 @@
   {
    "title": "Digital / Experience / Technology Consultant",
    "track": "1",
-   "postings": 1,
-   "companies": 1,
+   "postings": 0,
+   "companies": 0,
    "early": 0,
-   "top_companies": [
-    "Samsara"
-   ],
+   "top_companies": [],
    "early_examples": [],
-   "all_matches": [
-    "Samsara: Digital Transformation Consultant (ISM/ESM)"
-   ],
-   "examples": [
-    "Digital Transformation Consultant (ISM/ESM)"
-   ]
+   "all_matches": [],
+   "examples": []
   },
   {
    "title": "Customer Engineer / Implementation Engineer",
    "track": "3",
    "postings": 157,
-   "companies": 38,
+   "companies": 37,
    "early": 2,
    "top_companies": [
     "Cloudflare",
     "Veeva",
     "Adyen",
-    "Stripe",
-    "Box"
+    "Samsara",
+    "Stripe"
    ],
    "early_examples": [
     "Snyk: Associate Implementation Consultant",
@@ -1916,8 +1907,8 @@
    "all_matches": null,
    "examples": [
     "Implementation Engineer",
-    "Senior Implementation Consultant",
     "Implementation Consultant",
+    "Senior Implementation Consultant",
     "Enterprise Implementation Consultant"
    ]
   },
@@ -2089,7 +2080,7 @@
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1373,
+   "postings": 1370,
    "companies": 319,
    "early": 28,
    "top_companies": [
@@ -2134,7 +2125,7 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1133,
+   "postings": 1132,
    "companies": 221,
    "early": 10,
    "top_companies": [
@@ -2387,14 +2378,14 @@
    ]
   }
  ],
- "matched": 6457,
+ "matched": 6459,
  "first_run": false,
- "previous_snapshot": "2026-11-20",
- "new": 120,
- "closed": 159,
+ "previous_snapshot": "2026-11-21",
+ "new": 9,
+ "closed": 8,
  "track_new": {
-  "1": 63,
+  "1": 0,
   "2": 0,
-  "3": 57
+  "3": 9
  }
 }
