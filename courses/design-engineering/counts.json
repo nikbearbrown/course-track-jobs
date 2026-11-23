@@ -1,16 +1,16 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-22",
- "postings_in_file": 153850,
- "open_postings": 84660,
+ "snapshot": "2026-11-23",
+ "postings_in_file": 154840,
+ "open_postings": 84650,
  "track_totals": {
-  "1": 3243,
-  "3": 3184,
-  "2": 68
+  "1": 3248,
+  "3": 3182,
+  "2": 70
  },
  "track_early": {
-  "3": 72,
-  "1": 66,
+  "3": 74,
+  "1": 67,
   "2": 4
  },
  "track_also": {
@@ -22,8 +22,8 @@
   {
    "title": "Design Engineer",
    "track": "2",
-   "postings": 23,
-   "companies": 14,
+   "postings": 24,
+   "companies": 15,
    "early": 0,
    "top_companies": [
     "Ashby",
@@ -50,6 +50,7 @@
     "Granola: Design Engineer",
     "Granola: Design Engineer (Web & Brand)",
     "IDEO: Design Engineer Lead",
+    "Legora: Staff Design Engineer",
     "Mindtickle: Lead Design Engineer",
     "Minerva: Senior Design Engineer",
     "Palantir: Web Design Engineer",
@@ -292,13 +293,19 @@
   {
    "title": "Interaction Engineer / Developer",
    "track": "2",
-   "postings": 0,
-   "companies": 0,
+   "postings": 1,
+   "companies": 1,
    "early": 0,
-   "top_companies": [],
+   "top_companies": [
+    "NICE"
+   ],
    "early_examples": [],
-   "all_matches": [],
-   "examples": []
+   "all_matches": [
+    "NICE: AI Interaction Engineer, CX"
+   ],
+   "examples": [
+    "AI Interaction Engineer, CX"
+   ]
   },
   {
    "title": "Digital Experience Engineer / Developer",
@@ -663,8 +670,8 @@
   {
    "title": "AI Agent Engineer / Developer",
    "track": "3",
-   "postings": 59,
-   "companies": 26,
+   "postings": 58,
+   "companies": 25,
    "early": 1,
    "top_companies": [
     "Cresta",
@@ -705,7 +712,6 @@
     "Klaviyo: Engineering Manager, Amplify Engineering & AI Agents",
     "LangChain: Agent Engineer, Pre-sales",
     "NICE: Senior Sales Engineer - AI Agents (Western Europe, Italy)",
-    "Navan: Full Stack Engineer — AI Agents & Channels",
     "Netskope: AI Agent Developer",
     "Netskope: AI Agent Quality Engineer",
     "Nuro: Senior/Staff Software Engineer, AI Agent Infrastructure",
@@ -772,9 +778,9 @@
   {
    "title": "Forward Deployed Engineer",
    "track": "3",
-   "postings": 525,
+   "postings": 526,
    "companies": 103,
-   "early": 40,
+   "early": 42,
    "top_companies": [
     "Databricks",
     "Palantir",
@@ -789,6 +795,7 @@
     "C3 AI: Forward Deployed Engineer,  New Grad 2027",
     "Coinbase: Forward Deployed Engineer Intern (HR Technology)",
     "Cresta: Forward Deployed Engineering Intern (AI Agent)",
+    "Databricks: Associate Forward Deployed Engineer",
     "Domino Data Lab: Forward Deployed Engineer, Intern - Campus Recruiting 2027",
     "Legora: Junior/Mid-level Forward Deployed Engineer",
     "Palantir: Forward Deployed Infrastructure Engineer, New Grad - UK Government",
@@ -822,7 +829,7 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1135,
+   "postings": 1134,
    "companies": 196,
    "early": 9,
    "top_companies": [
@@ -852,8 +859,8 @@
   {
    "title": "AI Product Manager",
    "track": "1",
-   "postings": 181,
-   "companies": 87,
+   "postings": 180,
+   "companies": 86,
    "early": 1,
    "top_companies": [
     "Sierra",
@@ -971,8 +978,8 @@
   {
    "title": "Automation / Workflow Engineer",
    "track": "3",
-   "postings": 104,
-   "companies": 53,
+   "postings": 103,
+   "companies": 52,
    "early": 1,
    "top_companies": [
     "Stripe",
@@ -986,8 +993,8 @@
    ],
    "all_matches": null,
    "examples": [
-    "Automation Engineer",
     "Integration Engineer",
+    "Automation Engineer",
     "QA Automation Engineer II, Nav Native",
     "Senior Workato Integration Engineer"
    ]
@@ -995,8 +1002,8 @@
   {
    "title": "Responsible AI Specialist",
    "track": "1",
-   "postings": 19,
-   "companies": 13,
+   "postings": 18,
+   "companies": 12,
    "early": 0,
    "top_companies": [
     "Xero",
@@ -1010,7 +1017,6 @@
     "AbbVie: Senior Manager– AI Governance & Controls Engineering",
     "Adaptive Biotechnologies: Senior AI Governance Analyst",
     "Adyen: Senior AI Governance Counsel",
-    "Anthropic: Policy Development, Technical AI Governance",
     "Island: AI Implementation Specialist - AI Governance, Gateways, Platform Control",
     "Kong: Product Marketing Manager, AI Governance (EMEA)",
     "OneTrust: Senior Staff Software Engineer - AI Governance",
@@ -1879,13 +1885,19 @@
   {
    "title": "Digital / Experience / Technology Consultant",
    "track": "1",
-   "postings": 0,
-   "companies": 0,
+   "postings": 1,
+   "companies": 1,
    "early": 0,
-   "top_companies": [],
+   "top_companies": [
+    "Samsara"
+   ],
    "early_examples": [],
-   "all_matches": [],
-   "examples": []
+   "all_matches": [
+    "Samsara: Digital Transformation Consultant (ISM/ESM)"
+   ],
+   "examples": [
+    "Digital Transformation Consultant (ISM/ESM)"
+   ]
   },
   {
    "title": "Customer Engineer / Implementation Engineer",
@@ -2050,7 +2062,7 @@
   {
    "title": "Full-Stack Engineer",
    "track": "3",
-   "postings": 546,
+   "postings": 545,
    "companies": 156,
    "early": 7,
    "top_companies": [
@@ -2080,8 +2092,8 @@
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1370,
-   "companies": 319,
+   "postings": 1368,
+   "companies": 318,
    "early": 28,
    "top_companies": [
     "Veeva",
@@ -2125,9 +2137,9 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1132,
+   "postings": 1139,
    "companies": 221,
-   "early": 10,
+   "early": 11,
    "top_companies": [
     "Anduril",
     "OpenAI",
@@ -2140,6 +2152,7 @@
     "Anduril: 2027 Technical Program Manager Intern",
     "Canonical: Junior Project Manager",
     "Flexport: Associate Program Manager",
+    "Grab: Associate, Program Manager (Strategic Projects)",
     "Lightmatter: Associate Operations Program Manager",
     "Nintendo: Intern - IT Project Manager",
     "Nintendo: Intern - Project Manager",
@@ -2378,14 +2391,14 @@
    ]
   }
  ],
- "matched": 6459,
+ "matched": 6464,
  "first_run": false,
- "previous_snapshot": "2026-11-21",
- "new": 9,
- "closed": 8,
+ "previous_snapshot": "2026-11-22",
+ "new": 13,
+ "closed": 11,
  "track_new": {
-  "1": 0,
-  "2": 0,
-  "3": 9
+  "1": 11,
+  "2": 2,
+  "3": 0
  }
 }
