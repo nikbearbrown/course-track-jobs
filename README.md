@@ -14,13 +14,13 @@ them, which are open to people at the start of a career, and what is new since y
 <!-- headline:start -->
 ### Digital Experience Engineering (INFO 7375)
 
-Snapshot **2026-11-24**: 6,423 open postings matched, out of 84,517 searched. Files: [new today](courses/design-engineering/new-today.md), [full report](courses/design-engineering/report.md), [every posting](courses/design-engineering/jobs.csv).
+Snapshot **2026-11-25**: 6,369 open postings matched, out of 84,491 searched. Files: [new today](courses/design-engineering/new-today.md), [full report](courses/design-engineering/report.md), [every posting](courses/design-engineering/jobs.csv).
 
 | Track | Open postings | With an early-career title | New since the last run |
 |---|---:|---:|---:|
-| Track 1 – Creative | 3,217 | 70 | 46 |
-| Track 2 – Creative Engineer | 72 | 4 | 3 |
-| Track 3 – Engineer | 3,170 | 69 | 42 |
+| Track 1 – Creative | 3,181 | 70 | 52 |
+| Track 2 – Creative Engineer | 71 | 4 | 0 |
+| Track 3 – Engineer | 3,152 | 65 | 52 |
 <!-- headline:end -->
 
 **What to keep in mind.** Which track a job title belongs to is a proposal made by an AI. The course designers

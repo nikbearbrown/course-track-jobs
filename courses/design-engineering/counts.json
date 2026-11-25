@@ -1,20 +1,20 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-24",
- "postings_in_file": 157487,
- "open_postings": 84517,
+ "snapshot": "2026-11-25",
+ "postings_in_file": 159904,
+ "open_postings": 84491,
  "track_totals": {
-  "1": 3217,
-  "3": 3170,
-  "2": 72
+  "1": 3181,
+  "3": 3152,
+  "2": 71
  },
  "track_early": {
-  "3": 69,
+  "3": 65,
   "1": 70,
   "2": 4
  },
  "track_also": {
-  "2": 450,
+  "2": 446,
   "3": 18,
   "1": 2
  },
@@ -22,8 +22,8 @@
   {
    "title": "Design Engineer",
    "track": "2",
-   "postings": 25,
-   "companies": 16,
+   "postings": 24,
+   "companies": 15,
    "early": 0,
    "top_companies": [
     "Ashby",
@@ -56,7 +56,6 @@
     "Notion: Design Engineer, Notion.com",
     "Palantir: Web Design Engineer",
     "Perplexity: Design Engineer, Growth & Marketing",
-    "Stripe: Design Engineer, Expansion",
     "Writer: Design engineer (UK)",
     "Writer: Design engineer (US)"
    ],
@@ -187,7 +186,7 @@
   {
    "title": "Front-End Engineer / Developer",
    "track": "3",
-   "postings": 149,
+   "postings": 147,
    "companies": 71,
    "early": 5,
    "top_companies": [
@@ -215,19 +214,18 @@
   {
    "title": "Web Developer / Web Engineer",
    "track": "3",
-   "postings": 26,
-   "companies": 17,
-   "early": 4,
+   "postings": 23,
+   "companies": 15,
+   "early": 2,
    "top_companies": [
     "Canonical",
     "Esri",
     "Robinhood",
     "Harvey",
-    "Epic Games"
+    "Showpad"
    ],
    "early_examples": [
     "CACI: WEB DEVELOPER, LEAD  JR #94953",
-    "Epic Games: Web Engineer Intern",
     "Showpad: Junior Web Developer"
    ],
    "all_matches": [
@@ -239,8 +237,6 @@
     "Canonical: Web Developer",
     "Canonical: Web Engineer - JS, TS, Flutter",
     "Cohere: Web Developer",
-    "Epic Games: Web Engineer Intern",
-    "Epic Games: Web Engineer Intern",
     "Esri: Sr. Software Development Engineer - Web Developer",
     "Esri: Sr. Web Developer - AEC Integration",
     "Esri: Sr. Web Developer - AEC Integration",
@@ -248,7 +244,6 @@
     "Harvey: Staff Web Engineer",
     "Harvey: Staff Web Engineer",
     "Keeper Security: Web Developer, Technical SEO",
-    "Mozilla: Senior Contract Web Developer - Firefox (Browser Engine)",
     "OneTrust: Web Developer — React & Next.js",
     "Optimizely: Web Developer",
     "Perplexity: Member of Technical Staff (Senior QA Web Engineer)",
@@ -261,15 +256,15 @@
    "examples": [
     "Web Developer",
     "Staff Web Engineer",
-    "Web Engineer Intern",
-    "Sr. Web Developer - AEC Integration"
+    "Sr. Web Developer - AEC Integration",
+    "Web Engineer"
    ]
   },
   {
    "title": "Product Engineer",
    "track": "3",
-   "postings": 121,
-   "companies": 40,
+   "postings": 122,
+   "companies": 41,
    "early": 0,
    "top_companies": [
     "Esri",
@@ -329,8 +324,8 @@
   {
    "title": "Growth Engineer / Marketing Technologist",
    "track": "3",
-   "postings": 60,
-   "companies": 38,
+   "postings": 59,
+   "companies": 37,
    "early": 1,
    "top_companies": [
     "Grafana Labs",
@@ -386,11 +381,10 @@
     "Perplexity: Member of Technical Staff (GTM Engineer, Growth)",
     "Pika: Growth Engineer",
     "Robinhood: Staff MarTech Manager",
-    "Salesloft: Senior GTM Engineer",
     "Showpad: GTM Engineer",
     "Sierra: GTM Engineer",
     "Snowflake: GTM Engineer - ABM, Advertising and Growth Marketing",
-    "Socure: Head of Growth Engineering",
+    "Tebra: Manager, GTM Engineering (TAM & Outbound)",
     "Toast: GTM Engineer, Web",
     "Together AI: GTM Engineer",
     "Together AI: Technical Marketing Engineer",
@@ -406,9 +400,9 @@
    ],
    "examples": [
     "GTM Engineer",
-    "Senior GTM Engineer",
     "Principal Technical Marketing Engineer",
-    "Growth Engineer"
+    "Growth Engineer",
+    "Senior GTM Engineer"
    ]
   },
   {
@@ -532,7 +526,7 @@
   {
    "title": "Front-End / UI Platform Engineer",
    "track": "3",
-   "postings": 14,
+   "postings": 13,
    "companies": 9,
    "early": 0,
    "top_companies": [
@@ -550,7 +544,6 @@
     "Harvey: Staff Frontend Platform Engineer",
     "Jump Trading: Software Engineer | UI Platform",
     "LangChain: Senior Frontend Platform Engineer, Design Systems",
-    "Okta: Senior Product Manager - UI Platform",
     "Okta: Senior Software Engineer - UI Platform",
     "Okta: Senior Software Engineer in Test, UI Platform",
     "Okta: Staff Software Engineer - UI Platform",
@@ -580,8 +573,8 @@
   {
    "title": "AI Product Designer",
    "track": "1",
-   "postings": 19,
-   "companies": 15,
+   "postings": 20,
+   "companies": 16,
    "early": 0,
    "top_companies": [
     "Decagon",
@@ -602,6 +595,7 @@
     "Handshake: Staff Product Designer, Handshake AI",
     "Instacart: Senior Product Designer II - Growth Systems & AI Workflows",
     "Instacart: Senior Product Designer II - Growth Systems & AI Workflows",
+    "Komodo Health: Staff Product Designer, AI Products",
     "Observe.AI: AI Agent Experience Designer",
     "Pika: Product Designer (AI Native)",
     "Pinterest: Sr. Product Designer - Measurement, Data, & AI",
@@ -614,9 +608,9 @@
    ],
    "examples": [
     "Staff Product Designer, AI",
+    "Staff Product Designer, AI Products",
     "Senior Product Designer II - Growth Systems & AI Workflows",
-    "Agent Experience Designer",
-    "Agent UX Designer"
+    "Agent Experience Designer"
    ]
   },
   {
@@ -647,15 +641,15 @@
   {
    "title": "AI Engineer / Applied AI Engineer",
    "track": "3",
-   "postings": 241,
-   "companies": 100,
+   "postings": 239,
+   "companies": 98,
    "early": 1,
    "top_companies": [
     "OpenAI",
     "Anthropic",
     "DataCamp",
-    "Figure AI",
-    "Elastic"
+    "Elastic",
+    "Figure AI"
    ],
    "early_examples": [
     "Schonfeld: AI Engineer (Junior/Senior)"
@@ -671,8 +665,8 @@
   {
    "title": "AI Agent Engineer / Developer",
    "track": "3",
-   "postings": 58,
-   "companies": 26,
+   "postings": 55,
+   "companies": 24,
    "early": 1,
    "top_companies": [
     "Cresta",
@@ -687,7 +681,6 @@
    "all_matches": [
     "Amplitude: Principal Product Manager, AI Agents & MCP",
     "CoreWeave: Senior Forward Deployed Engineer, AI Agents",
-    "Cresta: AI Agent Evaluation Engineer",
     "Cresta: Forward Deployed Engineering Intern (AI Agent)",
     "Cresta: Forward Deployed Product Manager - AI Agent (EMEA)",
     "Cresta: Forward Deployed Product Manager, AI Agent",
@@ -722,7 +715,6 @@
     "Otter.ai: Software Engineer, AI Agent & LLM",
     "Payoneer: Principal Product Manager - AI Agent Platform",
     "Replit: AI Agent Security Architect",
-    "Retell AI: Founders Initiatives, AI Agents",
     "Scale AI: Frontier Agent Engineering Manager, Enterprise",
     "Scale AI: Frontier Agent Engineering Manager, Enterprise",
     "Scale AI: Frontier Agent Engineering Manager, Enterprise",
@@ -734,7 +726,6 @@
     "Smartsheet: Senior Software Engineer I, Agent Engineering (Remote Eligible)",
     "Snowflake: Staff Research Scientist, AI Agents & LLMs",
     "Starburst: AI Agent Engineer",
-    "Vanta: AI Agent Support Specialist",
     "Vast.ai: AI Agent Researcher",
     "Veeva: Consultant - AI Agent Implementation",
     "Veeva: Consultant - AI Agent Implementation",
@@ -779,8 +770,8 @@
   {
    "title": "Forward Deployed Engineer",
    "track": "3",
-   "postings": 521,
-   "companies": 103,
+   "postings": 516,
+   "companies": 101,
    "early": 38,
    "top_companies": [
     "Databricks",
@@ -802,7 +793,6 @@
     "Palantir: Forward Deployed Infrastructure Engineer, New Grad - UK Government",
     "Palantir: Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "Palantir: Forward Deployed Software Engineer, Internship",
-    "Palantir: Forward Deployed Software Engineer, Internship - AUS Government",
     "Palantir: Forward Deployed Software Engineer, Internship - Commercial",
     "Palantir: Forward Deployed Software Engineer, Internship - France",
     "Palantir: Forward Deployed Software Engineer, Internship - UK Government",
@@ -817,7 +807,8 @@
     "Palantir: Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "Saronic: Forward Deployed Engineer Intern (Summer 2027)",
     "Schonfeld: 2027 AI Forward Deployed Engineer Intern",
-    "ServiceNow: Forward Deployed Solution Engineer Intern (Masters Summer 2027)"
+    "ServiceNow: Forward Deployed Solution Engineer Intern (Masters Summer 2027)",
+    "WPP: Junior Forward Deployed Engineer (Agentic & Eco-System)"
    ],
    "all_matches": null,
    "examples": [
@@ -830,9 +821,9 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1131,
+   "postings": 1135,
    "companies": 195,
-   "early": 8,
+   "early": 7,
    "top_companies": [
     "Databricks",
     "Esri",
@@ -842,7 +833,6 @@
    ],
    "early_examples": [
     "Graphcore: Graduate Infrastructure Solutions Engineer 2027",
-    "Okta: Associate Solutions Engineer, Auth0",
     "Pinterest: Solutions Engineer Intern 2027 (USA)",
     "ServiceNow: Forward Deployed Solution Engineer Intern (Masters Summer 2027)",
     "Snowflake: Associate Solution Engineer",
@@ -859,15 +849,15 @@
   {
    "title": "AI Product Manager",
    "track": "1",
-   "postings": 179,
+   "postings": 175,
    "companies": 87,
    "early": 1,
    "top_companies": [
     "Sierra",
     "Wrike",
     "Veeva",
-    "Decagon",
-    "ServiceNow"
+    "ServiceNow",
+    "Decagon"
    ],
    "early_examples": [
     "C3 AI: AI Product Manager - MBA Intern (Summer 2027)"
@@ -883,7 +873,7 @@
   {
    "title": "AI Evaluation / Evals",
    "track": "3",
-   "postings": 54,
+   "postings": 52,
    "companies": 21,
    "early": 3,
    "top_companies": [
@@ -911,7 +901,6 @@
     "Anthropic: Staff+ Software Engineer, Safeguards Evals",
     "Anthropic: Technical Program Manager, Safeguards (Infrastructure & Evals)",
     "Arize AI: Senior AI Product Manager, Evals & Annotations",
-    "Cresta: AI Agent Evaluation Engineer",
     "Cresta: AI Quality Assurance Intern",
     "HP Inc: Agentic AI Systems Evaluation Engineer",
     "Handshake: Member of Technical Staff, Evals",
@@ -932,7 +921,6 @@
     "Legora: Technical Legal Engineer - Evals",
     "Legora: Technical Legal Engineer - Evals, Legal Research",
     "Lila Sciences: Senior II/ Staff Robotics Platform Evaluation Engineer",
-    "Mercor: Member of Technical Staff, Enterprise Evals Platform",
     "Mercor: Senior PMM, Evals",
     "Mercor: Software Engineer, Applied AI- Evals",
     "Mercor: Tech Lead, Applied AI - Evals",
@@ -980,9 +968,9 @@
    "early": 1,
    "top_companies": [
     "Stripe",
-    "Accenture Federal Services",
     "Five9",
-    "Wayve",
+    "Grab",
+    "Accenture Federal Services",
     "Formlabs"
    ],
    "early_examples": [
@@ -999,15 +987,15 @@
   {
    "title": "Responsible AI Specialist",
    "track": "1",
-   "postings": 19,
+   "postings": 16,
    "companies": 13,
    "early": 0,
    "top_companies": [
     "Xero",
-    "OneTrust",
     "Decagon",
     "Kong",
-    "Strava"
+    "Strava",
+    "Adaptive Biotechnologies"
    ],
    "early_examples": [],
    "all_matches": [
@@ -1017,10 +1005,7 @@
     "Decagon: Senior Counsel, Product, Privacy & AI Governance",
     "Island: AI Implementation Specialist - AI Governance, Gateways, Platform Control",
     "Kong: Product Marketing Manager, AI Governance (EMEA)",
-    "OneTrust: Senior Staff Software Engineer - AI Governance",
-    "OneTrust: Senior Staff Software Engineer - AI Governance",
     "OneTrust: Senior Staff Software Engineer- Ai Governance",
-    "OneTrust: Staff Software Engineer - AI Governance",
     "Payoneer: Director, AI Governance & Responsible AI",
     "Pinterest: Machine Learning Engineer II, Responsible AI",
     "Salesloft: Senior Data and AI Governance Analyst",
@@ -1033,23 +1018,23 @@
    ],
    "examples": [
     "Senior Data & AI Governance Specialist",
-    "Senior Staff Software Engineer - AI Governance",
     "Senior Counsel, Product, Privacy & AI Governance",
-    "Product Marketing Manager, AI Governance (EMEA)"
+    "Product Marketing Manager, AI Governance (EMEA)",
+    "Director, Privacy & AI Governance (DPO)"
    ]
   },
   {
    "title": "Product Designer",
    "track": "1",
-   "postings": 286,
-   "companies": 121,
+   "postings": 297,
+   "companies": 123,
    "early": 14,
    "top_companies": [
     "Palantir",
     "Anduril",
     "Stripe",
-    "Harvey",
-    "OpenAI"
+    "SurveyMonkey",
+    "Harvey"
    ],
    "early_examples": [
     "Anduril: 2027 Early Career Associate Product Designer",
@@ -1072,8 +1057,8 @@
   {
    "title": "UX Designer",
    "track": "1",
-   "postings": 49,
-   "companies": 27,
+   "postings": 46,
+   "companies": 25,
    "early": 1,
    "top_companies": [
     "Scopely",
@@ -1102,7 +1087,6 @@
     "Hasbro: Sr UX Designer - D&D Beyond",
     "Jam City: UI/UX Designer",
     "Kabam: UX/UI Designer (Contract)",
-    "Netgear: UX Designer",
     "Northwestern Mutual: Senior User Experience Designer",
     "Okta: Staff UX Designer",
     "OneTrust: Senior UX Designer",
@@ -1111,8 +1095,6 @@
     "Qualtrics: Digital UX Designer",
     "Riot Games: Senior UX Designer  –  Unpublished R&D Product",
     "Riot Games: User Experience Designer - Wild Rift (Contract)",
-    "Sakana AI: UI/UX Designer (Defense)",
-    "Sakana AI: UI/UX Designer (Enterprise)",
     "Scopely: Lead UX Designer - Star Trek Fleet Command",
     "Scopely: Lead UX Designer - Star Trek Fleet Command",
     "Scopely: Lead UX Designer - Star Trek Fleet Command",
@@ -1137,24 +1119,24 @@
     "Zuora: Principal UI/UX Designer"
    ],
    "examples": [
-    "UX Designer",
     "Senior UX Designer",
     "Staff UX Designer",
-    "Lead UX Designer - Star Trek Fleet Command"
+    "Lead UX Designer - Star Trek Fleet Command",
+    "Senior UX Designer, Monetization"
    ]
   },
   {
    "title": "UI Designer",
    "track": "1",
-   "postings": 16,
-   "companies": 9,
+   "postings": 14,
+   "companies": 8,
    "early": 0,
    "top_companies": [
     "Ubiquiti",
-    "Sakana AI",
     "Socure",
     "Accenture Federal Services",
-    "AKQA"
+    "AKQA",
+    "Coupang"
    ],
    "early_examples": [],
    "all_matches": [
@@ -1163,8 +1145,6 @@
     "Coupang: [쿠팡페이] Staff UI/UX Designer (신사업)",
     "Jam City: UI/UX Designer",
     "Kabam: UX/UI Designer (Contract)",
-    "Sakana AI: UI/UX Designer (Defense)",
-    "Sakana AI: UI/UX Designer (Enterprise)",
     "Socure: Senior Product UX/UI Designer",
     "Ubiquiti: Senior UI/UX Designer",
     "Ubiquiti: Senior UI/UX Designer",
@@ -1205,8 +1185,8 @@
   {
    "title": "Experience Designer",
    "track": "1",
-   "postings": 22,
-   "companies": 13,
+   "postings": 23,
+   "companies": 14,
    "early": 0,
    "top_companies": [
     "General Assembly",
@@ -1238,7 +1218,8 @@
     "Spotify: Senior Digital Learning Experience Designer - Learning & Inclusion",
     "Spotify: Senior Digital Learning Experience Designer, Learning & Inclusion",
     "TELUS Digital: Learning Experience Designer",
-    "TELUS Digital: Learning Experience Designer"
+    "TELUS Digital: Learning Experience Designer",
+    "Thoughtworks: Lead Experience Designer"
    ],
    "examples": [
     "Learning Experience Designer",
@@ -1272,8 +1253,8 @@
   {
    "title": "Visual / Brand / Graphic Designer",
    "track": "1",
-   "postings": 75,
-   "companies": 56,
+   "postings": 73,
+   "companies": 54,
    "early": 0,
    "top_companies": [
     "Brex",
@@ -1314,7 +1295,6 @@
     "Harvey: Staff Brand Designer",
     "Harvey: Staff Brand Designer",
     "Harvey: Staff Product Brand Designer",
-    "Hearst: News Graphic Designer",
     "IDEO: Senior Visual Communication Designer",
     "Intuitive Surgical: Senior Interaction Visual Designer",
     "Iterable: Lead Brand Designer",
@@ -1332,7 +1312,6 @@
     "Ogilvy: Graphic Designer",
     "Perplexity: Brand Designer, Growth",
     "Plaid: Senior Brand Designer, Systems",
-    "PlanetScale: Brand Designer",
     "Qualtrics: Senior Graphic Designer",
     "Reflection AI: Brand Designer",
     "Render: Brand Designer",
@@ -1370,13 +1349,13 @@
   {
    "title": "Content Designer / UX Writer",
    "track": "1",
-   "postings": 26,
-   "companies": 20,
+   "postings": 22,
+   "companies": 17,
    "early": 1,
    "top_companies": [
-    "Legora",
     "Harvey",
     "Illumio",
+    "Legora",
     "Elastic",
     "Robinhood"
    ],
@@ -1384,7 +1363,6 @@
     "Illumio: Content Strategist Intern"
    ],
    "all_matches": [
-    "Accenture Federal Services: Content Designer",
     "Affirm: Content Designer II",
     "Cohere: Content Strategist",
     "Coupang: Senior Content Strategist (계약직)",
@@ -1397,11 +1375,8 @@
     "Harvey: Staff Content Designer",
     "Illumio: Content Designer I",
     "Illumio: Content Strategist Intern",
-    "Intuitive Surgical: Learning Content Designer",
     "Legora: Senior Content Strategist",
-    "Legora: Senior Customer Content Strategist",
     "Legora: Staff Content Designer",
-    "OpenAI: Content Designer",
     "Perplexity: Content Designer",
     "Robinhood: Senior Content Designer",
     "Robinhood: Senior Content Designer, National Impact",
@@ -1413,9 +1388,9 @@
    ],
    "examples": [
     "Staff Content Designer",
-    "Content Designer",
     "Senior Content Designer",
-    "Content Strategist"
+    "Content Strategist",
+    "Content Strategist Intern"
    ]
   },
   {
@@ -1698,8 +1673,8 @@
   {
    "title": "Developer Advocate / Developer Relations",
    "track": "3",
-   "postings": 71,
-   "companies": 40,
+   "postings": 72,
+   "companies": 41,
    "early": 0,
    "top_companies": [
     "Elastic",
@@ -1750,6 +1725,7 @@
     "GitLab: Senior Developer Advocate",
     "Grab: Lead Program Manager (Developer Education)",
     "Harness: Content Engineer, Developer Relations",
+    "LanceDB: Senior Developer Advocate",
     "Mapbox: Head of Developer Relations",
     "Metabase: Developer Advocate",
     "Modal: Developer Relations Engineer",
@@ -1792,8 +1768,8 @@
   {
    "title": "Technical Writer / Documentation Engineer",
    "track": "1",
-   "postings": 57,
-   "companies": 24,
+   "postings": 56,
+   "companies": 23,
    "early": 3,
    "top_companies": [
     "Anduril",
@@ -1835,7 +1811,6 @@
     "Cerebras: DevX Technical Writer",
     "ClickHouse: Manager, Documentation Engineering",
     "ClickHouse: Manager, Documentation Engineering",
-    "Delinea: Technical Writer",
     "Fivetran: Staff Technical Writer",
     "GitLab: Staff Technical Writer",
     "Intuitive Surgical: Senior Technical Writer",
@@ -1892,13 +1867,13 @@
   {
    "title": "Customer Engineer / Implementation Engineer",
    "track": "3",
-   "postings": 156,
-   "companies": 37,
+   "postings": 162,
+   "companies": 38,
    "early": 2,
    "top_companies": [
     "Cloudflare",
-    "Veeva",
     "Adyen",
+    "Veeva",
     "Stripe",
     "Box"
    ],
@@ -2051,18 +2026,17 @@
   {
    "title": "Full-Stack Engineer",
    "track": "3",
-   "postings": 538,
-   "companies": 155,
-   "early": 7,
+   "postings": 527,
+   "companies": 152,
+   "early": 6,
    "top_companies": [
     "SpaceX",
-    "Affirm",
     "OpenAI",
+    "Affirm",
     "Accenture Federal Services",
     "Databricks"
    ],
    "early_examples": [
-    "AbbVie: Associate Full-Stack Software Engineer II",
     "Affirm: Analyst, Early Career (Full Stack)",
     "C3 AI: Platform Full-Stack Engineer, New Grad 2027",
     "Delivery Hero: Junior Fullstack Software Engineer",
@@ -2074,16 +2048,16 @@
    "examples": [
     "Full Stack Engineer",
     "Senior Software Engineer, Full Stack",
-    "Senior Software Engineer, Fullstack",
-    "Senior Full Stack Engineer"
+    "Senior Full Stack Engineer",
+    "Senior Software Engineer, Fullstack"
    ]
   },
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1357,
-   "companies": 314,
-   "early": 29,
+   "postings": 1335,
+   "companies": 316,
+   "early": 30,
    "top_companies": [
     "Veeva",
     "Stripe",
@@ -2106,6 +2080,7 @@
     "FourKites: Associate Product Manager / Product Manager — Over-the-Road Visibility",
     "Illumio: Product Manager Intern",
     "Lemonade: Associate Insurance Product Manager, Car",
+    "Omada Health: Associate Product Manager, Data Governance",
     "Saronic: Associate Product Manager",
     "ServiceNow: Outbound Product Manager Intern",
     "ServiceNow: Sr Inbound Product Manager Intern (MBA Summer 2027)",
@@ -2127,22 +2102,21 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1127,
-   "companies": 222,
-   "early": 12,
+   "postings": 1109,
+   "companies": 221,
+   "early": 11,
    "top_companies": [
     "Anduril",
     "OpenAI",
     "Waymo",
     "Anthropic",
-    "Intuitive Surgical"
+    "Zoox"
    ],
    "early_examples": [
     "Anduril: 2027 Early Career Technical Program Manager",
     "Anduril: 2027 Technical Program Manager Intern",
     "Canonical: Junior Project Manager",
     "Flexport: Associate Program Manager",
-    "Grab: Associate, Program Manager (Strategic Projects)",
     "Illumio: Technical Program Manager Intern",
     "Lightmatter: Associate Operations Program Manager",
     "Nintendo: Intern - IT Project Manager",
@@ -2162,8 +2136,8 @@
   {
    "title": "Design Manager / Design Lead",
    "track": "1",
-   "postings": 65,
-   "companies": 42,
+   "postings": 67,
+   "companies": 43,
    "early": 0,
    "top_companies": [
     "AKQA",
@@ -2228,6 +2202,7 @@
     "Nubank: Head of Design, Digital Assets",
     "Nubank: Head of Design, Global App Platforms",
     "Okta: Manager, Product Design - Okta Research & Development",
+    "OpenAI: Organizational Design Lead",
     "OpenAI: Project Manager, Design and Construction - R&D/Lab Buildouts",
     "Patreon: Product Design Manager",
     "Roblox: Games Creative/Design Director",
@@ -2235,6 +2210,7 @@
     "Scale AI: Senior Product Design Manager, Enterprise",
     "Stripe: Product Design Manager, Treasury",
     "Stripe: Sales Compensation Design Lead",
+    "SurveyMonkey: Senior Manager, Design",
     "TELUS Digital: Design Director",
     "The New York Times: Design Director, Opinion",
     "Vanta: Head of Design",
@@ -2250,15 +2226,15 @@
   {
    "title": "Creative Director / Art Director",
    "track": "1",
-   "postings": 56,
+   "postings": 59,
    "companies": 35,
    "early": 0,
    "top_companies": [
     "AKQA",
     "Ogilvy",
     "Duolingo",
-    "Scopely",
-    "Block"
+    "Hasbro",
+    "Robinhood"
    ],
    "early_examples": [],
    "all_matches": [
@@ -2284,6 +2260,7 @@
     "Figma: Creative Director, Brand Experience",
     "Glossier: Creative Director [Contract or Full-time]",
     "Harvey: Creative Director, Social Video",
+    "Hasbro: Art Director (Contract/Temporary) - D&D Universes Beyond",
     "Hasbro: Marketing Creative Director",
     "Hasbro: Senior Creative Director, Brand Experience, Toys & Games",
     "Kabam: Senior Creative Director",
@@ -2294,13 +2271,14 @@
     "Ogilvy: Senior Art Director",
     "Ogilvy: Senior Art Director",
     "Ogilvy: Senior Art Director",
-    "Ogilvy: Senior Art Director",
     "OpenAI: Art Director, Business Marketing",
     "Peloton: Associate Creative Director, Design",
     "Perplexity: Senior Art Director",
     "Pinterest: Lead Art Director",
     "Plaid: Senior Art Director - Campaigns",
     "Riot Games: Associate Art Director - League Cosmetics",
+    "Robinhood: Creative Director, Brand (Art)",
+    "Robinhood: Creative Director, Brand (Copy)",
     "Robinhood: Principal Creative Director",
     "Roblox: Creative Director",
     "Roku: Creative Director, Filmmaker for Brand Storytelling",
@@ -2314,6 +2292,7 @@
     "Sweetgreen: Senior Art Director",
     "The New York Times: Art Director",
     "The New York Times: Art Director, Opinion",
+    "The New York Times: Associate Creative Director",
     "Vanta: Executive Creative Director",
     "WPP: VML & Ogilvy | Creative Director (Open X), Japan",
     "WPP: VML & Ogilvy | Creative Director, Japan",
@@ -2323,7 +2302,7 @@
     "Senior Art Director",
     "Creative Director",
     "Art Director",
-    "Executive Creative Director"
+    "Associate Creative Director"
    ]
   },
   {
@@ -2383,14 +2362,14 @@
    ]
   }
  ],
- "matched": 6423,
+ "matched": 6369,
  "first_run": false,
- "previous_snapshot": "2026-11-23",
- "new": 91,
- "closed": 138,
+ "previous_snapshot": "2026-11-24",
+ "new": 104,
+ "closed": 171,
  "track_new": {
-  "1": 46,
-  "2": 3,
-  "3": 42
+  "1": 52,
+  "2": 0,
+  "3": 52
  }
 }
