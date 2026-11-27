@@ -1,20 +1,20 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-26",
- "postings_in_file": 161804,
- "open_postings": 84559,
+ "snapshot": "2026-11-27",
+ "postings_in_file": 162939,
+ "open_postings": 84555,
  "track_totals": {
-  "1": 3173,
-  "3": 3168,
+  "1": 3164,
+  "3": 3178,
   "2": 73
  },
  "track_early": {
   "3": 64,
-  "1": 71,
+  "1": 72,
   "2": 3
  },
  "track_also": {
-  "2": 446,
+  "2": 448,
   "3": 19,
   "1": 2
  },
@@ -191,8 +191,8 @@
   {
    "title": "Front-End Engineer / Developer",
    "track": "3",
-   "postings": 144,
-   "companies": 71,
+   "postings": 146,
+   "companies": 72,
    "early": 5,
    "top_companies": [
     "Roblox",
@@ -268,13 +268,13 @@
   {
    "title": "Product Engineer",
    "track": "3",
-   "postings": 124,
+   "postings": 125,
    "companies": 42,
    "early": 0,
    "top_companies": [
     "Esri",
-    "Docebo",
     "HelloFresh",
+    "Docebo",
     "Drata",
     "Ashby"
    ],
@@ -329,8 +329,8 @@
   {
    "title": "Growth Engineer / Marketing Technologist",
    "track": "3",
-   "postings": 60,
-   "companies": 38,
+   "postings": 59,
+   "companies": 37,
    "early": 1,
    "top_companies": [
     "Grafana Labs",
@@ -371,7 +371,6 @@
     "Granola: Growth Engineer",
     "Handshake: Sr Manager, GTM Engineering",
     "Justworks: Associate GTM Engineer",
-    "Kernel: GTM Engineer",
     "Klaviyo: Sr. Lead MarTech & AI Solutions Architect",
     "Klaviyo: Sr. Lead MarTech & AI Solutions Architect",
     "Komodo Health: Web & GTM Engineer",
@@ -646,8 +645,8 @@
   {
    "title": "AI Engineer / Applied AI Engineer",
    "track": "3",
-   "postings": 238,
-   "companies": 98,
+   "postings": 239,
+   "companies": 100,
    "early": 1,
    "top_companies": [
     "OpenAI",
@@ -828,7 +827,7 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1136,
+   "postings": 1138,
    "companies": 196,
    "early": 6,
    "top_companies": [
@@ -1032,7 +1031,7 @@
   {
    "title": "Product Designer",
    "track": "1",
-   "postings": 295,
+   "postings": 294,
    "companies": 123,
    "early": 15,
    "top_companies": [
@@ -1196,8 +1195,8 @@
   {
    "title": "Experience Designer",
    "track": "1",
-   "postings": 21,
-   "companies": 14,
+   "postings": 20,
+   "companies": 13,
    "early": 0,
    "top_companies": [
     "General Assembly",
@@ -1227,8 +1226,7 @@
     "Spotify: Senior Digital Learning Experience Designer - Learning & Inclusion",
     "Spotify: Senior Digital Learning Experience Designer, Learning & Inclusion",
     "TELUS Digital: Learning Experience Designer",
-    "TELUS Digital: Learning Experience Designer",
-    "Thoughtworks: Lead Experience Designer"
+    "TELUS Digital: Learning Experience Designer"
    ],
    "examples": [
     "Learning Experience Designer",
@@ -1428,8 +1426,8 @@
   {
    "title": "UX / User Researcher",
    "track": "1",
-   "postings": 26,
-   "companies": 19,
+   "postings": 25,
+   "companies": 18,
    "early": 1,
    "top_companies": [
     "ServiceNow",
@@ -1447,7 +1445,6 @@
     "Dust: User Researcher",
     "Esri: Sr. UX Researcher - ArcGIS Apps",
     "Esri: Sr. UX Researcher - ArcGIS Apps",
-    "Experian: Product Designer - UX Research",
     "Formlabs: Senior User Researcher",
     "GoDaddy: Director UX Research",
     "Harvey: Staff User Researcher",
@@ -1600,9 +1597,9 @@
   {
    "title": "Instructional Designer",
    "track": "1",
-   "postings": 14,
-   "companies": 9,
-   "early": 6,
+   "postings": 15,
+   "companies": 10,
+   "early": 7,
    "top_companies": [
     "Qualtrics",
     "Anduril",
@@ -1612,6 +1609,7 @@
    ],
    "early_examples": [
     "Flatiron Health: Associate, Abstraction Training - Instructional Designer",
+    "Lucid Motors: Instructional Designer Intern",
     "Qualtrics: Associate Instructional Designer"
    ],
    "all_matches": [
@@ -1620,6 +1618,7 @@
     "Anduril: Instructional Designer",
     "Feedzai: Instructional Designer",
     "Flatiron Health: Associate, Abstraction Training - Instructional Designer",
+    "Lucid Motors: Instructional Designer Intern",
     "Mindtickle: Senior Instructional Designer",
     "Nozomi Networks: Instructional Designer",
     "Qualtrics: Associate Instructional Designer",
@@ -1768,8 +1767,8 @@
   {
    "title": "Technical Writer / Documentation Engineer",
    "track": "1",
-   "postings": 58,
-   "companies": 24,
+   "postings": 59,
+   "companies": 25,
    "early": 3,
    "top_companies": [
     "Anduril",
@@ -1840,6 +1839,7 @@
     "Sigma Computing: Technical Writer Intern (Summer 2027)",
     "Sigma Computing: Technical Writer Intern (Summer 2027)",
     "Together AI: Technical Writer Intern, Developer Experience (Summer 2027)",
+    "Vonage: Technical Writer",
     "Wiz: Technical Writer"
    ],
    "examples": [
@@ -1887,8 +1887,8 @@
    "examples": [
     "Implementation Engineer",
     "Implementation Consultant",
-    "Senior Implementation Consultant",
-    "Enterprise Implementation Consultant"
+    "Enterprise Implementation Consultant",
+    "Embedded Implementation Consultant"
    ]
   },
   {
@@ -2027,13 +2027,13 @@
   {
    "title": "Full-Stack Engineer",
    "track": "3",
-   "postings": 533,
-   "companies": 155,
+   "postings": 538,
+   "companies": 157,
    "early": 6,
    "top_companies": [
     "SpaceX",
-    "OpenAI",
     "Affirm",
+    "OpenAI",
     "Accenture Federal Services",
     "Databricks"
    ],
@@ -2056,8 +2056,8 @@
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1325,
-   "companies": 316,
+   "postings": 1321,
+   "companies": 315,
    "early": 30,
    "top_companies": [
     "Veeva",
@@ -2103,8 +2103,8 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1114,
-   "companies": 224,
+   "postings": 1109,
+   "companies": 223,
    "early": 11,
    "top_companies": [
     "Anduril",
@@ -2363,14 +2363,14 @@
    ]
   }
  ],
- "matched": 6381,
+ "matched": 6382,
  "first_run": false,
- "previous_snapshot": "2026-11-25",
- "new": 82,
- "closed": 91,
+ "previous_snapshot": "2026-11-26",
+ "new": 30,
+ "closed": 36,
  "track_new": {
-  "1": 32,
-  "2": 3,
-  "3": 47
+  "1": 6,
+  "2": 0,
+  "3": 24
  }
 }
