@@ -1,4 +1,4 @@
-# Digital Experience Engineering (INFO 7375): new postings, 2026-11-27
+# Digital Experience Engineering (INFO 7375): new postings, 2026-11-28
 
 ## Executive summary
 
@@ -6,16 +6,16 @@
 
 **Why read it.** These are the two groups worth checking every day. The full list of every open posting is in [jobs.csv](jobs.csv) and the full report is in [report.md](report.md).
 
-**What it found.** Since 2026-11-26: 0 new in Track 2 – Creative Engineer; 1 new with an early-career title (1 in the US). Across all tracks 30 postings are new.
+**What it found.** Since 2026-11-27: 1 new in Track 2 – Creative Engineer; 0 new with an early-career title (0 in the US). Across all tracks 29 postings are new.
 
 The track of each job title is a proposal made by an AI. The course designers have not confirmed it.
 
-## New in Track 2 – Creative Engineer (0)
+## New in Track 2 – Creative Engineer (1)
+
+| Company | Job title | Location | In the US | Link |
+|---|---|---|---|---|
+| GoDaddy | WordPress Advanced Support Guide | Serbia |  | [posting](https://careers.godaddy/jobs?gh_jid=8200453003) |
+
+## New early-career postings, all tracks (0)
 
 None today.
-
-## New early-career postings, all tracks (1)
-
-| Company | Job title | Location | Track | In the US | Link |
-|---|---|---|---|---|---|
-| Lucid Motors | Instructional Designer Intern | Amsterdam, NH | Track 1 – Creative | yes | [posting](https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007) |

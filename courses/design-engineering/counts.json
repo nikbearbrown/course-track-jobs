@@ -1,22 +1,22 @@
 {
  "course": "Digital Experience Engineering (INFO 7375)",
- "snapshot": "2026-11-27",
- "postings_in_file": 162939,
- "open_postings": 84555,
+ "snapshot": "2026-11-28",
+ "postings_in_file": 163993,
+ "open_postings": 84487,
  "track_totals": {
-  "1": 3164,
-  "3": 3178,
-  "2": 73
+  "1": 3159,
+  "3": 3186,
+  "2": 74
  },
  "track_early": {
-  "3": 64,
+  "3": 65,
   "1": 72,
   "2": 3
  },
  "track_also": {
-  "2": 448,
+  "2": 445,
   "3": 19,
-  "1": 2
+  "1": 3
  },
  "rows": [
   {
@@ -191,13 +191,13 @@
   {
    "title": "Front-End Engineer / Developer",
    "track": "3",
-   "postings": 146,
+   "postings": 145,
    "companies": 72,
    "early": 5,
    "top_companies": [
-    "Roblox",
     "Anduril",
     "Grafana Labs",
+    "Roblox",
     "ClickUp",
     "Brex"
    ],
@@ -268,7 +268,7 @@
   {
    "title": "Product Engineer",
    "track": "3",
-   "postings": 125,
+   "postings": 124,
    "companies": 42,
    "early": 0,
    "top_companies": [
@@ -329,8 +329,8 @@
   {
    "title": "Growth Engineer / Marketing Technologist",
    "track": "3",
-   "postings": 59,
-   "companies": 37,
+   "postings": 58,
+   "companies": 36,
    "early": 1,
    "top_companies": [
     "Grafana Labs",
@@ -345,7 +345,6 @@
    "all_matches": [
     "1Password: Staff GTM Engineer",
     "Acorns: Sr. Martech Engineer, Mobile",
-    "Adyen: GTM Engineer",
     "Airbnb: Staff Data Scientist - Martech Platform (ML/Algos)",
     "Baseten: GTM Engineer",
     "Chime: Product Manager, Growth - MarTech",
@@ -413,17 +412,20 @@
   {
    "title": "Webflow / CMS Developer",
    "track": "2",
-   "postings": 1,
-   "companies": 1,
+   "postings": 2,
+   "companies": 2,
    "early": 0,
    "top_companies": [
+    "GoDaddy",
     "Veracode"
    ],
    "early_examples": [],
    "all_matches": [
+    "GoDaddy: WordPress Advanced Support Guide",
     "Veracode: Webflow Guru/Website Manager"
    ],
    "examples": [
+    "WordPress Advanced Support Guide",
     "Webflow Guru/Website Manager"
    ]
   },
@@ -776,9 +778,9 @@
   {
    "title": "Forward Deployed Engineer",
    "track": "3",
-   "postings": 519,
-   "companies": 103,
-   "early": 38,
+   "postings": 523,
+   "companies": 104,
+   "early": 39,
    "top_companies": [
     "Databricks",
     "Palantir",
@@ -827,8 +829,8 @@
   {
    "title": "Solutions Engineer / Solutions Architect",
    "track": "3",
-   "postings": 1138,
-   "companies": 196,
+   "postings": 1146,
+   "companies": 195,
    "early": 6,
    "top_companies": [
     "Databricks",
@@ -855,8 +857,8 @@
   {
    "title": "AI Product Manager",
    "track": "1",
-   "postings": 172,
-   "companies": 85,
+   "postings": 173,
+   "companies": 87,
    "early": 1,
    "top_companies": [
     "Sierra",
@@ -968,8 +970,8 @@
   {
    "title": "Automation / Workflow Engineer",
    "track": "3",
-   "postings": 105,
-   "companies": 52,
+   "postings": 104,
+   "companies": 51,
    "early": 1,
    "top_companies": [
     "Stripe",
@@ -985,8 +987,8 @@
    "examples": [
     "Automation Engineer",
     "Integration Engineer",
-    "Senior Automation Engineer",
-    "QA Automation Engineer II, Nav Native"
+    "QA Automation Engineer II, Nav Native",
+    "Senior Automation Engineer"
    ]
   },
   {
@@ -1031,8 +1033,8 @@
   {
    "title": "Product Designer",
    "track": "1",
-   "postings": 294,
-   "companies": 123,
+   "postings": 296,
+   "companies": 125,
    "early": 15,
    "top_companies": [
     "Palantir",
@@ -1195,15 +1197,15 @@
   {
    "title": "Experience Designer",
    "track": "1",
-   "postings": 20,
+   "postings": 19,
    "companies": 13,
    "early": 0,
    "top_companies": [
     "General Assembly",
     "AppFolio",
-    "TELUS Digital",
     "Airbnb",
-    "Spotify"
+    "Spotify",
+    "Decagon"
    ],
    "early_examples": [],
    "all_matches": [
@@ -1225,7 +1227,6 @@
     "Riot Games: User Experience Designer - Wild Rift (Contract)",
     "Spotify: Senior Digital Learning Experience Designer - Learning & Inclusion",
     "Spotify: Senior Digital Learning Experience Designer, Learning & Inclusion",
-    "TELUS Digital: Learning Experience Designer",
     "TELUS Digital: Learning Experience Designer"
    ],
    "examples": [
@@ -1553,15 +1554,15 @@
   {
    "title": "Learning Experience Designer",
    "track": "1",
-   "postings": 19,
+   "postings": 18,
    "companies": 14,
    "early": 1,
    "top_companies": [
     "General Assembly",
-    "TELUS Digital",
     "Spotify",
     "OpenAI",
-    "Quantexa"
+    "Quantexa",
+    "TELUS Digital"
    ],
    "early_examples": [
     "Intuitive Surgical: Learning Experience Research Intern"
@@ -1584,12 +1585,11 @@
     "Quantexa: Learning Designer",
     "Spotify: Senior Digital Learning Experience Designer - Learning & Inclusion",
     "Spotify: Senior Digital Learning Experience Designer, Learning & Inclusion",
-    "TELUS Digital: Learning Experience Designer",
     "TELUS Digital: Learning Experience Designer"
    ],
    "examples": [
-    "Learning Experience Designer",
     "Learning Designer",
+    "Learning Experience Designer",
     "Software Engineer, Native Learning Experiences",
     "Senior Learning Designer, Indian Languages"
    ]
@@ -1722,6 +1722,7 @@
     "Elastic: Senior Developer Advocate",
     "Elastic: Senior Developer Advocate",
     "Elastic: Senior Developer Advocate",
+    "ElevenLabs: Developer Advocate",
     "Factory: Developer Relations",
     "Figma: Developer Advocate, Payload",
     "GitLab: Senior Developer Advocate",
@@ -1754,7 +1755,6 @@
     "Vast.ai: Developer Relations Engineer",
     "Vercel: DevRel Engineer, Agentic Infrastructure",
     "Voxel51: Robotics DevRel Engineer",
-    "Vultr: DevOps Engineer, Developer Relations",
     "Yugabyte: Developer Advocate"
    ],
    "examples": [
@@ -2027,7 +2027,7 @@
   {
    "title": "Full-Stack Engineer",
    "track": "3",
-   "postings": 538,
+   "postings": 539,
    "companies": 157,
    "early": 6,
    "top_companies": [
@@ -2056,8 +2056,8 @@
   {
    "title": "Product Manager",
    "track": "1",
-   "postings": 1321,
-   "companies": 315,
+   "postings": 1324,
+   "companies": 317,
    "early": 30,
    "top_companies": [
     "Veeva",
@@ -2103,8 +2103,8 @@
   {
    "title": "Project / Program Manager",
    "track": "1",
-   "postings": 1109,
-   "companies": 223,
+   "postings": 1101,
+   "companies": 222,
    "early": 11,
    "top_companies": [
     "Anduril",
@@ -2137,7 +2137,7 @@
   {
    "title": "Design Manager / Design Lead",
    "track": "1",
-   "postings": 67,
+   "postings": 66,
    "companies": 44,
    "early": 0,
    "top_companies": [
@@ -2179,7 +2179,6 @@
     "Delivery Hero: Senior Product Design Manager",
     "Descript: Brand Design Lead",
     "DoorDash: Design Lead",
-    "Endava: Design Lead - .Net",
     "Endava: Global Head of Design",
     "Epoch AI: Design Lead / Head of Design",
     "Glossier: Brand Design Lead",
@@ -2363,14 +2362,14 @@
    ]
   }
  ],
- "matched": 6382,
+ "matched": 6386,
  "first_run": false,
- "previous_snapshot": "2026-11-26",
- "new": 30,
- "closed": 36,
+ "previous_snapshot": "2026-11-27",
+ "new": 29,
+ "closed": 33,
  "track_new": {
-  "1": 6,
-  "2": 0,
-  "3": 24
+  "1": 10,
+  "2": 1,
+  "3": 18
  }
 }

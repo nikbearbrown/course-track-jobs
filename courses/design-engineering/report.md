@@ -1,66 +1,66 @@
-# Digital Experience Engineering (INFO 7375): job search by track, 2026-11-27
+# Digital Experience Engineering (INFO 7375): job search by track, 2026-11-28
 
 ## Executive summary
 
-**What this is.** The day's search of 84,555 open job postings for the 68 job titles mapped to this course's tracks. A server runs it each morning on postings it has already collected from company job boards.
+**What this is.** The day's search of 84,487 open job postings for the 68 job titles mapped to this course's tracks. A server runs it each morning on postings it has already collected from company job boards.
 
 **Why read it.** To see what is open now for each track, what appeared since the last run, and which postings are open to people at the start of a career.
 
 **What it found.**
 
-- **Track 1 – Creative:** 3,164 open postings, 72 with an early-career word in the title; 6 new since 2026-11-26.
-- **Track 2 – Creative Engineer:** 73 open postings, 3 with an early-career word in the title; 0 new since 2026-11-26.
-- **Track 3 – Engineer:** 3,178 open postings, 64 with an early-career word in the title; 24 new since 2026-11-26.
-- **Closed since 2026-11-26:** 36 postings that matched last time are no longer open.
+- **Track 1 – Creative:** 3,159 open postings, 72 with an early-career word in the title; 10 new since 2026-11-27.
+- **Track 2 – Creative Engineer:** 74 open postings, 3 with an early-career word in the title; 1 new since 2026-11-27.
+- **Track 3 – Engineer:** 3,186 open postings, 65 with an early-career word in the title; 18 new since 2026-11-27.
+- **Closed since 2026-11-27:** 33 postings that matched last time are no longer open.
 - **The track of each title is a proposal made by an AI.** The course designers have not confirmed it.
 
-## New since 2026-11-26
+## New since 2026-11-27
 
-### Track 1 – Creative (6 new)
-
-| Company | Job title | Location | Early-career | In the US | Link |
-|---|---|---|---|---|---|
-| Lucid Motors | Instructional Designer Intern | Amsterdam, NH | yes | yes | [posting](https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007) |
-| Hopper | Growth Product Manager, HTS Media | Toronto - Remote; Ontario - Remote |  |  | [posting](https://jobs.ashbyhq.com/hopper/5c5f8b6b-ca9c-4347-85b3-fe7770723d8a) |
-| Hopper | Growth Product Manager, HTS Media | New York - Remote; Austin - Remote; California - Remote; Seattle - Rem |  | yes | [posting](https://jobs.ashbyhq.com/hopper/7b58a6d2-9c40-4445-865a-48830a0c657e) |
-| Legora | Staff Product Designer | Stockholm HQ |  |  | [posting](https://jobs.ashbyhq.com/legora/74caf8aa-f849-4edf-b5b0-fce1bc82a2ba) |
-| Vonage | Technical Writer | Wrocław, Poland |  |  | [posting](https://job-boards.greenhouse.io/vonage/jobs/8905434002) |
-| WPP | Transformation Project Manager, Learning & Development - 12 month FTC | London, England, United Kingdom |  |  | [posting](https://job-boards.greenhouse.io/wpp/jobs/8961882002) |
-
-### Track 2 – Creative Engineer (0 new)
-
-None.
-
-### Track 3 – Engineer (24 new)
+### Track 1 – Creative (10 new)
 
 | Company | Job title | Location | Early-career | In the US | Link |
 |---|---|---|---|---|---|
-| Atlan | AI Native Builder - Frontend | India |  |  | [posting](https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638) |
-| Cloudflare | Senior Manager, Customer Engineering - Digital Natives | Hybrid |  |  | [posting](https://boards.greenhouse.io/cloudflare/jobs/8405433?gh_jid=8405433) |
-| Commvault | Senior AI Engineer | Bangalore, India; Pune, India |  |  | [posting](https://job-boards.greenhouse.io/commvault/jobs/5493541008) |
-| Coursera | Sales & Solutions Engineer UAE | United Arab Emirates |  |  | [posting](https://job-boards.greenhouse.io/coursera/jobs/6270090004) |
-| Databricks | Solutions Architect | Melbourne, Australia; Sydney, Australia |  |  | [posting](https://databricks.com/company/careers/open-positions/job?gh_jid=7606848002) |
-| Endava | Full Stack Developer | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163812389) |
-| Endava | Full Stack Developer Lead | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163812249) |
-| Endava | Full Stack Senior Developer | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163812459) |
-| Endava | QA Automation Lead with AI Agent Testing experience | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163857229) |
-| Endava | Senior Automation Tester with AI Agent Testing experience | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163857099) |
-| Faire | Product Engineer - Ads Bidding | Toronto, ON |  |  | [posting](https://boards.greenhouse.io/faire/jobs/8963694002?gh_jid=8963694002) |
-| Faire | Senior Product Engineer - Brand | Kitchener-Waterloo, ON; Toronto, ON |  |  | [posting](https://boards.greenhouse.io/faire/jobs/8959279002?gh_jid=8959279002) |
-| GoDaddy | AI Implementation Specialist | India |  |  | [posting](https://careers.godaddy/jobs?gh_jid=8210967003) |
-| GoDaddy | DevFest 2027 Senior FullStack Software Engineer | India |  |  | [posting](https://careers.godaddy/jobs?gh_jid=8217158003) |
-| LastPass | Senior Frontend Engineer | Remote - Portugal |  |  | [posting](https://job-boards.greenhouse.io/lastpass/jobs/4758571005) |
-| LastPass | Senior Frontend Engineer | Remote - Hungary |  |  | [posting](https://job-boards.greenhouse.io/lastpass/jobs/4758819005) |
-| Legora | Solutions Engineer - Milan | Milan |  |  | [posting](https://jobs.ashbyhq.com/legora/5a51ffc6-f780-4c55-b130-5fc9ad51c31f) |
-| MongoDB | Solutions Architect | Bengaluru; Gurugram; Mumbai |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8418729) |
-| Optimizely | Principal Solution Architect | Sydney, NSW, Australia |  |  | [posting](https://jobs.smartrecruiters.com/optimizely/744000163904149) |
-| Qualtrics | Senior Solution Architect | Sydney, New South Wales, Australia |  |  | [posting](https://www.qualtrics.com/careers/us/en/job/8414290?gh_jid=8414290) |
-| Snowflake | Senior Solution Engineer - Acquisition | DE-Germany-Remote |  |  | [posting](https://jobs.ashbyhq.com/snowflake/357d22a5-666d-476d-9f39-a5d5c120dbab) |
-| Stripe | Solutions Architect, Velocity | Dublin |  |  | [posting](https://stripe.com/jobs/search?gh_jid=8417067) |
-| Wayve | Full-Stack Software Engineer | London, United Kingdom |  |  | [posting](https://jobs.ashbyhq.com/wayve/47143127-7809-40d1-88b8-50c6424cdcec) |
-| Zscaler | Sr. Staff Software Engineer (Full-Stack) | Santa Clara, California, USA |  | yes | [posting](https://job-boards.greenhouse.io/zscaler/jobs/5241708007) |
+| Cohere | Technical Program Manager, Model Delivery | Toronto; Canada; United States; New York; Montreal |  | yes | [posting](https://jobs.ashbyhq.com/cohere/d24de9b2-35b6-456a-843e-a9e01d2facf2) |
+| Collibra | Staff Product Manager, AI | New York, New York, USA |  | yes | [posting](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8420501) |
+| Coupa | Sr. Product Manager - Supply Chain Data Platform | Bangalore, India; Hyderabad, India |  |  | [posting](https://jobs.lever.co/coupa/83d6c2db-0807-4c1f-90d1-94a298752a75) |
+| Coupang | Senior Product Designer (Coupang Eats Customer UX) | Seoul, South Korea |  |  | [posting](https://www.coupang.jobs/en/jobs/?gh_jid=8419787) |
+| Hopper | Senior Product Manager, Offers & Loyalty Partnerships | New York - Remote; Austin - Remote; California - Remote; Seattle - Rem |  | yes | [posting](https://jobs.ashbyhq.com/hopper/9098d914-9b2c-45a0-a56c-975819194041) |
+| Hopper | Senior Product Manager, Offers & Loyalty Partnerships | Toronto - Remote |  |  | [posting](https://jobs.ashbyhq.com/hopper/cce128ff-1f74-43cc-98e2-2410eea1f5b4) |
+| Isomorphic Labs | Senior Product Manager (Core Platforms), London | London |  |  | [posting](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6272449004) |
+| OpenAI | Program Manager, Recruiting Events | San Francisco; New York City |  | yes | [posting](https://jobs.ashbyhq.com/openai/1f1ea997-283b-4d49-b25b-e8dbe2491938) |
+| Optimizely | Senior Product Designer | Ho Chi Minh City, Ho Chi Minh, Vietnam |  |  | [posting](https://jobs.smartrecruiters.com/optimizely/744000163968619) |
+| ShipMonk | Lead Product Manager, Merchant Platform & AI | Pittston, Pennsylvania, United States |  | yes | [posting](https://job-boards.eu.greenhouse.io/shipmonk/jobs/5035795101) |
 
-## Every open posting in Track 2 – Creative Engineer (73)
+### Track 2 – Creative Engineer (1 new)
+
+| Company | Job title | Location | Early-career | In the US | Link |
+|---|---|---|---|---|---|
+| GoDaddy | WordPress Advanced Support Guide | Serbia |  |  | [posting](https://careers.godaddy/jobs?gh_jid=8200453003) |
+
+### Track 3 – Engineer (18 new)
+
+| Company | Job title | Location | Early-career | In the US | Link |
+|---|---|---|---|---|---|
+| Coupang | Sr. Security Automation Engineer (Detection Engineering) | Seoul, South Korea |  |  | [posting](https://www.coupang.jobs/en/jobs/?gh_jid=8418436) |
+| Databricks | Manager, Delivery Solutions Architects | Munich, Germany |  |  | [posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8963506002) |
+| ElevenLabs | Developer Advocate | United Kingdom; Spain; Europe; United States; Germany; Italy; Poland; |  | yes | [posting](https://jobs.ashbyhq.com/ElevenLabs/969bbf7d-037c-4965-812e-442105ce58c1) |
+| Endava | Java Full Stack Lead | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163962879) |
+| Endava | Senior Java Full Stack Lead | Bengaluru, Karnataka, India |  |  | [posting](https://jobs.smartrecruiters.com/endava/744000163962709) |
+| MongoDB | Senior Solutions Architect | London |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8419289) |
+| MongoDB | Senior Solutions Architect | Tel Aviv |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8419294) |
+| MongoDB | Senior Solutions Architect | Germany |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8419307) |
+| MongoDB | Senior Solutions Architect | London |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8419310) |
+| MongoDB | Senior Solutions Architect | Paris |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8419313) |
+| MongoDB | Staff Forward Deployed AI Engineer | Bengaluru |  |  | [posting](https://www.mongodb.com/careers/job/?gh_jid=8304154) |
+| Okta | Senior Fullstack Engineer (Java Heavy + Front End) | Bengaluru |  |  | [posting](https://www.okta.com/company/careers/opportunity/8239244?gh_jid=8239244) |
+| OneTrust | Senior Solutions Engineer | Madrid, Spain |  |  | [posting](https://job-boards.greenhouse.io/onetrust/jobs/8370921) |
+| OneTrust | Technical Implementation Consultant | London, United Kingdom |  |  | [posting](https://job-boards.greenhouse.io/onetrust/jobs/8413759) |
+| Snowflake | Solution Engineering Manager (Expansion) | DE-Germany-Remote |  |  | [posting](https://jobs.ashbyhq.com/snowflake/cdab7f79-0a7b-4183-bffc-a0ac0ad59c90) |
+| Stripe | Software Engineer, Full Stack Atlas | South San Francisco, CA |  | yes | [posting](https://stripe.com/jobs/search?gh_jid=8421000) |
+| Thoughtworks | Fullstack Developer Consultant | Ho Chi Minh City |  |  | [posting](https://jobs.ashbyhq.com/thoughtworks/b598bc9d-3964-418b-aa4b-e0cf6e3affb2) |
+| Zuora | Customer Solution Engineer | Tokyo, Japan |  |  | [posting](https://boards.greenhouse.io/zuora/jobs/8411941?gh_jid=8411941) |
+
+## Every open posting in Track 2 – Creative Engineer (74)
 
 | Company | Job title | Location | Early-career | In the US | Link |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@ None.
 | Figma | Manager, Software Engineering - AI Design Systems | San Francisco, CA • New York, NY • United States |  | yes | [posting](https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004) |
 | Gamma | UI Engineer | San Francisco |  | yes | [posting](https://jobs.ashbyhq.com/gamma/48508f9a-06e6-4394-b97d-b69bab2a5485) |
 | Gecko Robotics | Staff Product Designer / Spatial Experiences | New York City |  | yes | [posting](https://jobs.ashbyhq.com/gecko-robotics/521ebe0f-2aec-4bf9-a1e8-bc2cbaab8ee0) |
+| GoDaddy | WordPress Advanced Support Guide | Serbia |  |  | [posting](https://careers.godaddy/jobs?gh_jid=8200453003) |
 | Granola | Design Engineer | London |  |  | [posting](https://jobs.ashbyhq.com/granola/77cf40dd-0a11-4b23-ab9d-ff9d9d1e5f41) |
 | Granola | Design Engineer (Web & Brand) | London |  |  | [posting](https://jobs.ashbyhq.com/granola/559ae443-4595-48d3-9cb8-580439762d19) |
 | IDEO | Design Engineer Lead | Chicago, IL |  | yes | [posting](https://job-boards.greenhouse.io/ideo/jobs/8354241) |
@@ -138,7 +139,7 @@ None.
 | Writer | Design engineer (UK) | London, UK |  |  | [posting](https://jobs.ashbyhq.com/WRITER/00f6bb59-1f15-4429-906d-809ad100c0f5) |
 | Writer | Design engineer (US) | New York City, NY; Chicago, IL; Seattle, WA; San Francisco, CA; Austin |  | yes | [posting](https://jobs.ashbyhq.com/WRITER/c47f4fea-c97a-48cd-a121-aad079bd89db) |
 
-## Every open early-career posting, all tracks (139; 91 in the US)
+## Every open early-career posting, all tracks (140; 92 in the US)
 
 ### Track 1 – Creative (72)
 
@@ -225,7 +226,7 @@ None.
 | Jump Trading | Campus UI Software Engineer (Intern) | Chicago | yes | yes | [posting](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | ServiceNow | Associate Accessibility Engineer Intern | Dublin, , Ireland | yes |  | [posting](https://jobs.smartrecruiters.com/servicenow/744000162586889) |
 
-### Track 3 – Engineer (64)
+### Track 3 – Engineer (65)
 
 | Company | Job title | Location | Early-career | In the US | Link |
 |---|---|---|---|---|---|
@@ -241,6 +242,7 @@ None.
 | Cresta | AI Quality Assurance Intern | Toronto, Ontario | yes |  | [posting](https://job-boards.greenhouse.io/cresta/jobs/5047247008) |
 | Cresta | Forward Deployed Engineering Intern (AI Agent) | Toronto, Canada (Hybrid) | yes |  | [posting](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | Databricks | Associate Forward Deployed Engineer | New York City, New York | yes | yes | [posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
+| Databricks | Associate Forward Deployed Engineer | Mountain View, California | yes | yes | [posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
 | Delivery Hero | Junior Fullstack Software Engineer | Singapore, , Singapore | yes |  | [posting](https://jobs.smartrecruiters.com/deliveryhero/744000156705190) |
 | Domino Data Lab | Forward Deployed Engineer, Intern - Campus Recruiting 2027 | New York City, New York | yes | yes | [posting](https://job-boards.greenhouse.io/dominodatalab/jobs/7992534) |
 | Formlabs | Robotic Systems Integration Engineer - Entry Level (SLA & SLS) | Boston, MA | yes | yes | [posting](https://careers.formlabs.com/job/8241436/apply/?gh_jid=8241436) |
@@ -300,20 +302,20 @@ None.
 
 | Job title | Open postings | Companies | Early-career titles | Who posts it |
 |---|---:|---:|---:|---|
-| Product Manager | 1,321 | 315 | 30 | Veeva, Stripe, ServiceNow, Anduril |
-| Project / Program Manager | 1,109 | 223 | 11 | Anduril, OpenAI, Waymo, Anthropic |
-| Product Designer | 294 | 123 | 15 | Palantir, Anduril, Stripe, SurveyMonkey |
-| AI Product Manager | 172 | 85 | 1 | Sierra, Wrike, Veeva, ServiceNow |
+| Product Manager | 1,324 | 317 | 30 | Veeva, Stripe, ServiceNow, Anduril |
+| Project / Program Manager | 1,101 | 222 | 11 | Anduril, OpenAI, Waymo, Anthropic |
+| Product Designer | 296 | 125 | 15 | Palantir, Anduril, Stripe, SurveyMonkey |
+| AI Product Manager | 173 | 87 | 1 | Sierra, Wrike, Veeva, ServiceNow |
 | Visual / Brand / Graphic Designer | 70 | 51 | 0 | Brex, Harvey, Stripe, Navan |
-| Design Manager / Design Lead | 67 | 44 | 0 | AKQA, Datadog, Nubank, Airbnb |
+| Design Manager / Design Lead | 66 | 44 | 0 | AKQA, Datadog, Nubank, Airbnb |
 | Creative Director / Art Director | 59 | 34 | 0 | AKQA, Ogilvy, Duolingo, Hasbro |
 | Technical Writer / Documentation Engineer | 59 | 25 | 3 | Anduril, Saronic, Palantir, ClickHouse |
 | UX Designer | 48 | 26 | 1 | Scopely, Ubiquiti, Canonical, Twitch |
 | UX / User Researcher | 25 | 18 | 1 | ServiceNow, Esri, Okta, PointClickCare |
 | Content Designer / UX Writer | 23 | 18 | 1 | Harvey, Illumio, Legora, Elastic |
-| Experience Designer | 20 | 13 | 0 | General Assembly, AppFolio, TELUS Digital, Airbnb |
 | AI Product Designer | 19 | 16 | 0 | Decagon, Instacart, ServiceNow, Handshake |
-| Learning Experience Designer | 19 | 14 | 1 | General Assembly, TELUS Digital, Spotify, OpenAI |
+| Experience Designer | 19 | 13 | 0 | General Assembly, AppFolio, Airbnb, Spotify |
+| Learning Experience Designer | 18 | 14 | 1 | General Assembly, Spotify, OpenAI, Quantexa |
 | Responsible AI Specialist | 16 | 13 | 0 | Xero, Decagon, Kong, Strava |
 | UI Designer | 16 | 9 | 0 | Ubiquiti, Sakana AI, Socure, Accenture Federal Services |
 | Instructional Designer | 15 | 10 | 7 | Qualtrics, Anduril, Quantexa, Thumbtack |
@@ -349,10 +351,10 @@ None.
 | Creative Developer / Creative Engineer | 2 | 2 | 0 | Accenture Federal Services, Stripe |
 | Creative Technologist | 2 | 2 | 0 | Black Forest Labs, Stability AI |
 | Design Technologist | 2 | 2 | 0 | Orca Security, ServiceNow |
+| Webflow / CMS Developer | 2 | 2 | 0 | GoDaddy, Veracode |
 | XR / Spatial Experience Designer or Developer | 2 | 2 | 0 | Gecko Robotics, SpaceX |
 | Accessibility Engineer / Specialist | 1 | 1 | 1 | ServiceNow |
 | Interaction Engineer / Developer | 1 | 1 | 0 | NICE |
-| Webflow / CMS Developer | 1 | 1 | 0 | Veracode |
 | Digital Experience Engineer / Developer | 0 | 0 | 0 |  |
 | Prompt Engineer | 0 | 0 | 0 |  |
 | Prototyper / Prototyping Engineer | 0 | 0 | 0 |  |
@@ -361,16 +363,16 @@ None.
 
 | Job title | Open postings | Companies | Early-career titles | Who posts it |
 |---|---:|---:|---:|---|
-| Solutions Engineer / Solutions Architect | 1,138 | 196 | 6 | Databricks, Esri, Stripe, Snowflake |
-| Full-Stack Engineer | 538 | 157 | 6 | SpaceX, Affirm, OpenAI, Accenture Federal Services |
-| Forward Deployed Engineer | 519 | 103 | 38 | Databricks, Palantir, OpenAI, Anduril |
+| Solutions Engineer / Solutions Architect | 1,146 | 195 | 6 | Databricks, Esri, Stripe, Snowflake |
+| Full-Stack Engineer | 539 | 157 | 6 | SpaceX, Affirm, OpenAI, Accenture Federal Services |
+| Forward Deployed Engineer | 523 | 104 | 39 | Databricks, Palantir, OpenAI, Anduril |
 | AI Engineer / Applied AI Engineer | 239 | 100 | 1 | OpenAI, Anthropic, DataCamp, Rubrik |
 | Customer Engineer / Implementation Engineer | 169 | 39 | 2 | Cloudflare, Adyen, Veeva, Brex |
-| Front-End Engineer / Developer | 146 | 72 | 5 | Roblox, Anduril, Grafana Labs, ClickUp |
-| Product Engineer | 125 | 42 | 0 | Esri, HelloFresh, Docebo, Drata |
-| Automation / Workflow Engineer | 105 | 52 | 1 | Stripe, Five9, Grab, Accenture Federal Services |
+| Front-End Engineer / Developer | 145 | 72 | 5 | Anduril, Grafana Labs, Roblox, ClickUp |
+| Product Engineer | 124 | 42 | 0 | Esri, HelloFresh, Docebo, Drata |
+| Automation / Workflow Engineer | 104 | 51 | 1 | Stripe, Five9, Grab, Accenture Federal Services |
 | Developer Advocate / Developer Relations | 70 | 39 | 0 | Elastic, Datadog, Supabase, Databricks |
-| Growth Engineer / Marketing Technologist | 59 | 37 | 1 | Grafana Labs, Zscaler, Cresta, Navan |
+| Growth Engineer / Marketing Technologist | 58 | 36 | 1 | Grafana Labs, Zscaler, Cresta, Navan |
 | AI Agent Engineer / Developer | 57 | 26 | 1 | Cresta, Veeva, ServiceNow, Scale AI |
 | AI Evaluation / Evals | 51 | 21 | 3 | LangChain, Anduril, ServiceNow, Harvey |
 | Web Developer / Web Engineer | 23 | 15 | 2 | Canonical, Esri, Robinhood, Harvey |
